@@ -1,0 +1,58 @@
+{#include file="Public/header" /#}
+{#include file="Public/top" /#}
+<div id="main">
+    <div class="container-fluid">
+        <div class="row">
+            {#include file="Public/left" /#}
+            <div class="col-md-10">
+            <div class="right-content">
+    
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            {#$pageName#}
+        </div>
+        <div class="panel-body">
+            <form class="layui-form form-container form-ajax form-horizontal" action="{#:U('Api/save')#}" method="post">
+                <div class="form-group">
+                    <label class="col-md-2 control-label">
+                        名称：
+                    </label>
+                    <div class="col-md-4">
+                        <input type="text" class="form-control"  name="jkname" value="{#$edit.jkname#}" required lay-verify="required" placeholder="请输入名称" />
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label class="col-md-2 control-label">
+                        类型：
+                    </label>
+                    <div class="col-md-4">
+                        <select name="jkstyle" class="form-control flselect">
+                            <option value="wxwap" {#if condition="$edit.jkstyle eq 'wxwap'"#}selected="selected"{#/if#}>微信wap(wxwap)</option>
+                            <option value="wxgzh" {#if condition="$edit.jkstyle eq 'wxgzh'"#}selected="selected"{#/if#}>微信公众号(wxgzh)</option>
+                            <option value="wxsm" {#if condition="$edit.jkstyle eq 'wxsm'"#}selected="selected"{#/if#}>微信扫码(wxsm)</option>
+                            <option value="zfbwap" {#if condition="$edit.jkstyle eq 'zfbwap'"#}selected="selected"{#/if#}>支付宝wap(zfbwap)</option>
+                            <option value="zfbsm" {#if condition="$edit.jkstyle eq 'zfbsm'"#}selected="selected"{#/if#}>支付宝扫码（zfbsm）</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-4">
+                         <input type="hidden" class="form-control" name="act" value="{#$act#}"/>
+                         <input type="hidden" class="form-control" name="jkid" value="{#$edit.jkid#}"/>
+                        <button type="submit" class="btn btn-success ">
+                            &nbsp;
+                            <span class="glyphicon glyphicon-save">
+                            </span>
+                            &nbsp;提交&nbsp;
+                        </button>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+        </div>
+    </div>
+        </div>
+    </div>
+</div>
+{#include file="Public/footer" /#} 

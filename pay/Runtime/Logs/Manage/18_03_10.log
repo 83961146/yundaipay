@@ -1,0 +1,180 @@
+[ 2018-03-10T22:08:50+08:00 ] 125.120.174.208 /Manage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000259s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000331s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000371s ]
+NOTIC: [8] Undefined offset: 0 /www/wwwroot/pay.com/pay/Common/Logic/BaseLogic.class.php 第 84 行.
+NOTIC: [8] Undefined offset: 0 /www/wwwroot/pay.com/pay/Common/Logic/BaseLogic.class.php 第 84 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000085s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005559s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005598s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000116s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000358s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000393s ]
+
+[ 2018-03-10T22:08:55+08:00 ] 125.120.174.208 /Manage/Index/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000259s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000332s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000368s ]
+NOTIC: [8] Undefined offset: 0 /www/wwwroot/pay.com/pay/Common/Logic/BaseLogic.class.php 第 84 行.
+NOTIC: [8] Undefined offset: 0 /www/wwwroot/pay.com/pay/Common/Logic/BaseLogic.class.php 第 84 行.
+NOTIC: [8] Undefined offset: 0 /www/wwwroot/pay.com/pay/Common/Logic/BaseLogic.class.php 第 84 行.
+NOTIC: [8] Undefined offset: 4 /www/wwwroot/pay.com/pay/Common/Controller/DefaultController.class.php 第 203 行.
+
+[ 2018-03-10T22:08:58+08:00 ] 125.120.174.208 /Manage/Main/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000259s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000332s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000371s ]
+NOTIC: [8] Undefined offset: 0 /www/wwwroot/pay.com/pay/Common/Logic/BaseLogic.class.php 第 84 行.
+NOTIC: [8] Undefined offset: 0 /www/wwwroot/pay.com/pay/Common/Logic/BaseLogic.class.php 第 84 行.
+NOTIC: [8] Undefined index: Status /www/wwwroot/pay.com/pay/Common/Logic/AdminLogic.class.php 第 261 行.
+NOTIC: [8192] mysql_get_server_info(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /www/wwwroot/pay.com/pay/Manage/Controller/MainController.class.php 第 20 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000106s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009189s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009236s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000122s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000392s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000432s ]
+
+[ 2018-03-10T22:11:05+08:00 ] 125.120.174.208 /Manage/Api/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000259s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000334s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000373s ]
+NOTIC: [8] Undefined offset: 0 /www/wwwroot/pay.com/pay/Common/Logic/BaseLogic.class.php 第 84 行.
+NOTIC: [8] Undefined offset: 0 /www/wwwroot/pay.com/pay/Common/Logic/BaseLogic.class.php 第 84 行.
+NOTIC: [8] Undefined index: Status /www/wwwroot/pay.com/pay/Common/Logic/AdminLogic.class.php 第 261 行.
+NOTIC: [8] Undefined offset: 2 /www/wwwroot/pay.com/pay/Common/Controller/DefaultController.class.php 第 199 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000047s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000094s ]
+NOTIC: [8] Undefined index: p /www/wwwroot/pay.com/pay/Runtime/Cache/Manage/d24a77279f4c7b22d8aa1e7d18752abc.php 第 190 行.
+NOTIC: [8] Undefined index: p /www/wwwroot/pay.com/pay/Runtime/Cache/Manage/d24a77279f4c7b22d8aa1e7d18752abc.php 第 194 行.
+NOTIC: [8] Undefined index: p /www/wwwroot/pay.com/pay/Runtime/Cache/Manage/d24a77279f4c7b22d8aa1e7d18752abc.php 第 195 行.
+NOTIC: [8] Undefined index: p /www/wwwroot/pay.com/pay/Runtime/Cache/Manage/d24a77279f4c7b22d8aa1e7d18752abc.php 第 190 行.
+NOTIC: [8] Undefined index: p /www/wwwroot/pay.com/pay/Runtime/Cache/Manage/d24a77279f4c7b22d8aa1e7d18752abc.php 第 194 行.
+NOTIC: [8] Undefined index: p /www/wwwroot/pay.com/pay/Runtime/Cache/Manage/d24a77279f4c7b22d8aa1e7d18752abc.php 第 195 行.
+NOTIC: [8] Undefined index: p /www/wwwroot/pay.com/pay/Runtime/Cache/Manage/d24a77279f4c7b22d8aa1e7d18752abc.php 第 190 行.
+NOTIC: [8] Undefined index: p /www/wwwroot/pay.com/pay/Runtime/Cache/Manage/d24a77279f4c7b22d8aa1e7d18752abc.php 第 194 行.
+NOTIC: [8] Undefined index: p /www/wwwroot/pay.com/pay/Runtime/Cache/Manage/d24a77279f4c7b22d8aa1e7d18752abc.php 第 195 行.
+NOTIC: [8] Undefined index: p /www/wwwroot/pay.com/pay/Runtime/Cache/Manage/d24a77279f4c7b22d8aa1e7d18752abc.php 第 190 行.
+NOTIC: [8] Undefined index: p /www/wwwroot/pay.com/pay/Runtime/Cache/Manage/d24a77279f4c7b22d8aa1e7d18752abc.php 第 194 行.
+NOTIC: [8] Undefined index: p /www/wwwroot/pay.com/pay/Runtime/Cache/Manage/d24a77279f4c7b22d8aa1e7d18752abc.php 第 195 行.
+NOTIC: [8] Undefined index: p /www/wwwroot/pay.com/pay/Runtime/Cache/Manage/d24a77279f4c7b22d8aa1e7d18752abc.php 第 190 行.
+NOTIC: [8] Undefined index: p /www/wwwroot/pay.com/pay/Runtime/Cache/Manage/d24a77279f4c7b22d8aa1e7d18752abc.php 第 194 行.
+NOTIC: [8] Undefined index: p /www/wwwroot/pay.com/pay/Runtime/Cache/Manage/d24a77279f4c7b22d8aa1e7d18752abc.php 第 195 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010725s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010762s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000126s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000161s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000040s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.006961s ]
+NOTIC: [8] Undefined index: p /www/wwwroot/pay.com/pay/Runtime/Cache/Manage/d24a77279f4c7b22d8aa1e7d18752abc.php 第 190 行.
+NOTIC: [8] Undefined index: p /www/wwwroot/pay.com/pay/Runtime/Cache/Manage/d24a77279f4c7b22d8aa1e7d18752abc.php 第 194 行.
+NOTIC: [8] Undefined index: p /www/wwwroot/pay.com/pay/Runtime/Cache/Manage/d24a77279f4c7b22d8aa1e7d18752abc.php 第 195 行.
+NOTIC: [8] Undefined index: p /www/wwwroot/pay.com/pay/Runtime/Cache/Manage/d24a77279f4c7b22d8aa1e7d18752abc.php 第 190 行.
+NOTIC: [8] Undefined index: p /www/wwwroot/pay.com/pay/Runtime/Cache/Manage/d24a77279f4c7b22d8aa1e7d18752abc.php 第 194 行.
+NOTIC: [8] Undefined index: p /www/wwwroot/pay.com/pay/Runtime/Cache/Manage/d24a77279f4c7b22d8aa1e7d18752abc.php 第 195 行.
+NOTIC: [8] Undefined index: p /www/wwwroot/pay.com/pay/Runtime/Cache/Manage/d24a77279f4c7b22d8aa1e7d18752abc.php 第 190 行.
+NOTIC: [8] Undefined index: p /www/wwwroot/pay.com/pay/Runtime/Cache/Manage/d24a77279f4c7b22d8aa1e7d18752abc.php 第 194 行.
+NOTIC: [8] Undefined index: p /www/wwwroot/pay.com/pay/Runtime/Cache/Manage/d24a77279f4c7b22d8aa1e7d18752abc.php 第 195 行.
+NOTIC: [8] Undefined index: p /www/wwwroot/pay.com/pay/Runtime/Cache/Manage/d24a77279f4c7b22d8aa1e7d18752abc.php 第 190 行.
+NOTIC: [8] Undefined index: p /www/wwwroot/pay.com/pay/Runtime/Cache/Manage/d24a77279f4c7b22d8aa1e7d18752abc.php 第 194 行.
+NOTIC: [8] Undefined index: p /www/wwwroot/pay.com/pay/Runtime/Cache/Manage/d24a77279f4c7b22d8aa1e7d18752abc.php 第 195 行.
+NOTIC: [8] Undefined index: p /www/wwwroot/pay.com/pay/Runtime/Cache/Manage/d24a77279f4c7b22d8aa1e7d18752abc.php 第 190 行.
+NOTIC: [8] Undefined index: p /www/wwwroot/pay.com/pay/Runtime/Cache/Manage/d24a77279f4c7b22d8aa1e7d18752abc.php 第 194 行.
+NOTIC: [8] Undefined index: p /www/wwwroot/pay.com/pay/Runtime/Cache/Manage/d24a77279f4c7b22d8aa1e7d18752abc.php 第 195 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006629s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.000280s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000009s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.006779s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000377s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000411s ]
+
+[ 2018-03-10T22:11:06+08:00 ] 125.120.174.208 /Manage/Api/user.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000260s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000332s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000371s ]
+NOTIC: [8] Undefined offset: 0 /www/wwwroot/pay.com/pay/Common/Logic/BaseLogic.class.php 第 84 行.
+NOTIC: [8] Undefined offset: 0 /www/wwwroot/pay.com/pay/Common/Logic/BaseLogic.class.php 第 84 行.
+NOTIC: [8] Undefined index: Status /www/wwwroot/pay.com/pay/Common/Logic/AdminLogic.class.php 第 261 行.
+NOTIC: [8] Undefined offset: 1 /www/wwwroot/pay.com/pay/Common/Tool/StringChange.class.php 第 270 行.
+NOTIC: [8] Undefined offset: 1 /www/wwwroot/pay.com/pay/Common/Tool/StringChange.class.php 第 271 行.
+NOTIC: [8] Undefined offset: 1 /www/wwwroot/pay.com/pay/Common/Tool/StringChange.class.php 第 270 行.
+NOTIC: [8] Undefined offset: 1 /www/wwwroot/pay.com/pay/Common/Tool/StringChange.class.php 第 271 行.
+NOTIC: [8] Undefined offset: 1 /www/wwwroot/pay.com/pay/Common/Tool/StringChange.class.php 第 270 行.
+NOTIC: [8] Undefined offset: 1 /www/wwwroot/pay.com/pay/Common/Tool/StringChange.class.php 第 271 行.
+NOTIC: [8] Undefined offset: 1 /www/wwwroot/pay.com/pay/Common/Tool/StringChange.class.php 第 270 行.
+NOTIC: [8] Undefined offset: 1 /www/wwwroot/pay.com/pay/Common/Tool/StringChange.class.php 第 271 行.
+NOTIC: [8] Undefined offset: 1 /www/wwwroot/pay.com/pay/Common/Tool/StringChange.class.php 第 270 行.
+NOTIC: [8] Undefined offset: 1 /www/wwwroot/pay.com/pay/Common/Tool/StringChange.class.php 第 271 行.
+NOTIC: [8] Undefined offset: 2 /www/wwwroot/pay.com/pay/Common/Controller/DefaultController.class.php 第 199 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000106s ]
+NOTIC: [8] Undefined index: p /www/wwwroot/pay.com/pay/Runtime/Cache/Manage/ed4585c89cde803b39f287265da62bb9.php 第 192 行.
+NOTIC: [8] Undefined index: jkid /www/wwwroot/pay.com/pay/Runtime/Cache/Manage/ed4585c89cde803b39f287265da62bb9.php 第 192 行.
+NOTIC: [8] Undefined index: p /www/wwwroot/pay.com/pay/Runtime/Cache/Manage/ed4585c89cde803b39f287265da62bb9.php 第 200 行.
+NOTIC: [8] Undefined index: p /www/wwwroot/pay.com/pay/Runtime/Cache/Manage/ed4585c89cde803b39f287265da62bb9.php 第 201 行.
+NOTIC: [8] Undefined index: p /www/wwwroot/pay.com/pay/Runtime/Cache/Manage/ed4585c89cde803b39f287265da62bb9.php 第 192 行.
+NOTIC: [8] Undefined index: jkid /www/wwwroot/pay.com/pay/Runtime/Cache/Manage/ed4585c89cde803b39f287265da62bb9.php 第 192 行.
+NOTIC: [8] Undefined index: p /www/wwwroot/pay.com/pay/Runtime/Cache/Manage/ed4585c89cde803b39f287265da62bb9.php 第 200 行.
+NOTIC: [8] Undefined index: p /www/wwwroot/pay.com/pay/Runtime/Cache/Manage/ed4585c89cde803b39f287265da62bb9.php 第 201 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012390s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012434s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000128s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000161s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.008253s ]
+NOTIC: [8] Undefined index: p /www/wwwroot/pay.com/pay/Runtime/Cache/Manage/ed4585c89cde803b39f287265da62bb9.php 第 192 行.
+NOTIC: [8] Undefined index: jkid /www/wwwroot/pay.com/pay/Runtime/Cache/Manage/ed4585c89cde803b39f287265da62bb9.php 第 192 行.
+NOTIC: [8] Undefined index: p /www/wwwroot/pay.com/pay/Runtime/Cache/Manage/ed4585c89cde803b39f287265da62bb9.php 第 200 行.
+NOTIC: [8] Undefined index: p /www/wwwroot/pay.com/pay/Runtime/Cache/Manage/ed4585c89cde803b39f287265da62bb9.php 第 201 行.
+NOTIC: [8] Undefined index: p /www/wwwroot/pay.com/pay/Runtime/Cache/Manage/ed4585c89cde803b39f287265da62bb9.php 第 192 行.
+NOTIC: [8] Undefined index: jkid /www/wwwroot/pay.com/pay/Runtime/Cache/Manage/ed4585c89cde803b39f287265da62bb9.php 第 192 行.
+NOTIC: [8] Undefined index: p /www/wwwroot/pay.com/pay/Runtime/Cache/Manage/ed4585c89cde803b39f287265da62bb9.php 第 200 行.
+NOTIC: [8] Undefined index: p /www/wwwroot/pay.com/pay/Runtime/Cache/Manage/ed4585c89cde803b39f287265da62bb9.php 第 201 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007728s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.000293s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000009s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.007892s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000386s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000421s ]
+

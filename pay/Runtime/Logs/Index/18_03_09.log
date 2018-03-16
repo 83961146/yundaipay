@@ -1,0 +1,1652 @@
+[ 2018-03-09T04:22:24+08:00 ] 162.243.141.78 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000265s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000332s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000369s ]
+NOTIC: [8] Undefined variable: checklogin /www/wwwroot/pay.com/pay/Index/Controller/BaseController.class.php 第 50 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000084s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000133s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008712s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008754s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000123s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000384s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000421s ]
+
+[ 2018-03-09T10:29:04+08:00 ] 80.82.78.50 http://www.baidu.com/cache/global/img/gs.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000258s ]
+
+[ 2018-03-09T10:29:05+08:00 ] 80.82.78.50 http://www.baidu.com/cache/global/img/gs.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000271s ]
+
+[ 2018-03-09T10:29:07+08:00 ] 80.82.78.50 http://www.baidu.com/cache/global/img/gs.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000260s ]
+
+[ 2018-03-09T10:29:11+08:00 ] 80.82.78.50 http://www.baidu.com/cache/global/img/gs.gif
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+
+[ 2018-03-09T11:01:42+08:00 ] 221.192.179.89 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000262s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000331s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000368s ]
+NOTIC: [8] Undefined variable: checklogin /www/wwwroot/pay.com/pay/Index/Controller/BaseController.class.php 第 50 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000126s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008606s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008645s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000121s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000154s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000388s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000428s ]
+
+[ 2018-03-09T11:01:51+08:00 ] 221.192.179.89 /reg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000333s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000371s ]
+NOTIC: [8] Undefined variable: checklogin /www/wwwroot/pay.com/pay/Index/Controller/BaseController.class.php 第 50 行.
+NOTIC: [2] Invalid argument supplied for foreach() /www/wwwroot/pay.com/pay/Common/Controller/DefaultController.class.php 第 215 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000101s ]
+NOTIC: [8] Undefined index: agent /www/wwwroot/pay.com/pay/Runtime/Cache/Index/5f5d9a23a6a926bd6863115f62f9b248.php 第 36 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007886s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007926s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000122s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000163s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.004134s ]
+NOTIC: [8] Undefined index: agent /www/wwwroot/pay.com/pay/Runtime/Cache/Index/5f5d9a23a6a926bd6863115f62f9b248.php 第 36 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003843s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.000278s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000009s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.003993s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000376s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000409s ]
+
+[ 2018-03-09T11:01:51+08:00 ] 221.192.179.89 /Index/Index/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000260s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000336s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000375s ]
+NOTIC: [8] Undefined variable: checklogin /www/wwwroot/pay.com/pay/Index/Controller/BaseController.class.php 第 50 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000371s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000438s ]
+
+[ 2018-03-09T11:02:03+08:00 ] 221.192.179.89 /Test/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000260s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000331s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000370s ]
+NOTIC: [8] Undefined variable: checklogin /www/wwwroot/pay.com/pay/Index/Controller/BaseController.class.php 第 50 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000096s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007781s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007828s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000133s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000167s ]
+
+[ 2018-03-09T11:47:17+08:00 ] 111.197.6.177 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000332s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000369s ]
+NOTIC: [8] Undefined variable: checklogin /www/wwwroot/pay.com/pay/Index/Controller/BaseController.class.php 第 50 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000078s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000129s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008750s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008791s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000125s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000165s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000384s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000423s ]
+
+[ 2018-03-09T11:47:19+08:00 ] 111.197.6.177 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000258s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000340s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000378s ]
+NOTIC: [8] Undefined variable: checklogin /www/wwwroot/pay.com/pay/Index/Controller/BaseController.class.php 第 50 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000128s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008743s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008784s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000123s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000386s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000427s ]
+
+[ 2018-03-09T11:47:19+08:00 ] 111.197.6.177 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000262s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000332s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000369s ]
+NOTIC: [8] Undefined variable: checklogin /www/wwwroot/pay.com/pay/Index/Controller/BaseController.class.php 第 50 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000125s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008628s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008668s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000121s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000385s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000422s ]
+
+[ 2018-03-09T11:47:20+08:00 ] 111.197.6.177 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000259s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000338s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000375s ]
+NOTIC: [8] Undefined variable: checklogin /www/wwwroot/pay.com/pay/Index/Controller/BaseController.class.php 第 50 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000127s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008720s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008762s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000132s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000165s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000373s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000411s ]
+
+[ 2018-03-09T11:47:20+08:00 ] 111.197.6.177 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000260s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000341s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000378s ]
+NOTIC: [8] Undefined variable: checklogin /www/wwwroot/pay.com/pay/Index/Controller/BaseController.class.php 第 50 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000079s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000129s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008742s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008784s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000124s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000158s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000380s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000422s ]
+
+[ 2018-03-09T11:47:21+08:00 ] 111.197.6.177 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000257s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000331s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000368s ]
+NOTIC: [8] Undefined variable: checklogin /www/wwwroot/pay.com/pay/Index/Controller/BaseController.class.php 第 50 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000125s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008662s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008703s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000121s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000387s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000425s ]
+
+[ 2018-03-09T11:49:02+08:00 ] 111.197.6.177 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000368s ]
+NOTIC: [8] Undefined variable: checklogin /www/wwwroot/pay.com/pay/Index/Controller/BaseController.class.php 第 50 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000124s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008675s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008715s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000131s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000163s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000370s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000406s ]
+
+[ 2018-03-09T11:58:42+08:00 ] 111.197.6.177 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000281s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000333s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000371s ]
+NOTIC: [8] Undefined variable: checklogin /www/wwwroot/pay.com/pay/Index/Controller/BaseController.class.php 第 50 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000077s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000126s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008703s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008744s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000131s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000164s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000375s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000413s ]
+
+[ 2018-03-09T12:51:00+08:00 ] 115.60.93.241 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000329s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000367s ]
+NOTIC: [8] Undefined variable: checklogin /www/wwwroot/pay.com/pay/Index/Controller/BaseController.class.php 第 50 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000079s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000128s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008663s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008702s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000122s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000375s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000411s ]
+
+[ 2018-03-09T12:51:58+08:00 ] 120.204.17.71 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000260s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000340s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000378s ]
+NOTIC: [8] Undefined variable: checklogin /www/wwwroot/pay.com/pay/Index/Controller/BaseController.class.php 第 50 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000077s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000127s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008705s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008745s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000124s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000158s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000395s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000433s ]
+
+[ 2018-03-09T12:52:01+08:00 ] 101.226.225.86 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000262s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000342s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000381s ]
+NOTIC: [8] Undefined variable: checklogin /www/wwwroot/pay.com/pay/Index/Controller/BaseController.class.php 第 50 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000127s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008758s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008800s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000125s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000159s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000373s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000411s ]
+
+[ 2018-03-09T13:42:46+08:00 ] 115.60.93.241 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000331s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000370s ]
+NOTIC: [8] Undefined variable: checklogin /www/wwwroot/pay.com/pay/Index/Controller/BaseController.class.php 第 50 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000126s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008619s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008659s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000127s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000382s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000421s ]
+
+[ 2018-03-09T13:43:42+08:00 ] 106.120.161.66 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000367s ]
+NOTIC: [8] Undefined variable: checklogin /www/wwwroot/pay.com/pay/Index/Controller/BaseController.class.php 第 50 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000077s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000128s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008726s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008767s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000126s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000379s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000417s ]
+
+[ 2018-03-09T13:44:09+08:00 ] 101.199.112.49 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000259s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000331s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000369s ]
+NOTIC: [8] Undefined variable: checklogin /www/wwwroot/pay.com/pay/Index/Controller/BaseController.class.php 第 50 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000127s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008608s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008648s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000121s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000154s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000376s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000412s ]
+
+[ 2018-03-09T13:51:43+08:00 ] 115.60.93.241 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000257s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000368s ]
+NOTIC: [8] Undefined variable: checklogin /www/wwwroot/pay.com/pay/Index/Controller/BaseController.class.php 第 50 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000127s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008630s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008671s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000121s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000390s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000430s ]
+
+[ 2018-03-09T16:11:36+08:00 ] 115.60.93.241 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000259s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000369s ]
+NOTIC: [8] Undefined variable: checklogin /www/wwwroot/pay.com/pay/Index/Controller/BaseController.class.php 第 50 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000077s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000125s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008655s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008695s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000120s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000153s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000379s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000418s ]
+
+[ 2018-03-09T18:57:40+08:00 ] 117.61.128.200 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000260s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000338s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000375s ]
+NOTIC: [8] Undefined variable: checklogin /www/wwwroot/pay.com/pay/Index/Controller/BaseController.class.php 第 50 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000077s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000128s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009251s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009292s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000122s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000394s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000434s ]
+
+[ 2018-03-09T18:58:08+08:00 ] 117.61.128.200 /Test/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000259s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000332s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000371s ]
+NOTIC: [8] Undefined variable: checklogin /www/wwwroot/pay.com/pay/Index/Controller/BaseController.class.php 第 50 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000044s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000092s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008048s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008091s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000120s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000153s ]
+
+[ 2018-03-09T18:58:09+08:00 ] 122.224.34.163 /Pay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000259s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000338s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000376s ]
+NOTIC: [8] Undefined variable: checklogin /www/wwwroot/pay.com/pay/Index/Controller/BaseController.class.php 第 50 行.
+NOTIC: [8] Undefined index: fxaction /www/wwwroot/pay.com/pay/Index/Controller/PayController.class.php 第 15 行.
+
+[ 2018-03-09T18:58:09+08:00 ] 117.61.128.200 /Test/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000258s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000332s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000369s ]
+NOTIC: [8] Undefined variable: checklogin /www/wwwroot/pay.com/pay/Index/Controller/BaseController.class.php 第 50 行.
+NOTIC: [8] A session had already been started - ignoring session_start() /www/wwwroot/pay.com/pay/Index/Controller/TestController.class.php 第 45 行.
+NOTIC: [8] Undefined offset: 2 /www/wwwroot/pay.com/pay/Common/Controller/DefaultController.class.php 第 193 行.
+NOTIC: [8] Undefined offset: 3 /www/wwwroot/pay.com/pay/Common/Controller/DefaultController.class.php 第 193 行.
+NOTIC: [8] Undefined offset: 4 /www/wwwroot/pay.com/pay/Common/Controller/DefaultController.class.php 第 193 行.
+
+[ 2018-03-09T18:58:18+08:00 ] 122.224.34.163 /Pay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000369s ]
+NOTIC: [8] Undefined variable: checklogin /www/wwwroot/pay.com/pay/Index/Controller/BaseController.class.php 第 50 行.
+NOTIC: [8] Undefined index: fxaction /www/wwwroot/pay.com/pay/Index/Controller/PayController.class.php 第 15 行.
+
+[ 2018-03-09T18:58:18+08:00 ] 117.61.128.200 /Test/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000260s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000331s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000365s ]
+NOTIC: [8] Undefined variable: checklogin /www/wwwroot/pay.com/pay/Index/Controller/BaseController.class.php 第 50 行.
+NOTIC: [8] A session had already been started - ignoring session_start() /www/wwwroot/pay.com/pay/Index/Controller/TestController.class.php 第 45 行.
+NOTIC: [8] Undefined offset: 2 /www/wwwroot/pay.com/pay/Common/Controller/DefaultController.class.php 第 203 行.
+NOTIC: [8] Undefined offset: 4 /www/wwwroot/pay.com/pay/Common/Controller/DefaultController.class.php 第 203 行.
+
+[ 2018-03-09T18:58:18+08:00 ] 117.61.128.200 /Pay/jsapi?style=wechat&id=7&ddh=201710015205930988584&t=1520593098
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000333s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000389s ]
+NOTIC: [8] Undefined variable: checklogin /www/wwwroot/pay.com/pay/Index/Controller/BaseController.class.php 第 50 行.
+NOTIC: [8] Undefined index: apihttp /www/wwwroot/pay.com/pay/Common/Logic/PayLogic.class.php 第 444 行.
+
+[ 2018-03-09T18:58:19+08:00 ] 122.224.34.163 /Pay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000260s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000328s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000366s ]
+NOTIC: [8] Undefined variable: checklogin /www/wwwroot/pay.com/pay/Index/Controller/BaseController.class.php 第 50 行.
+NOTIC: [8] Undefined index: fxaction /www/wwwroot/pay.com/pay/Index/Controller/PayController.class.php 第 15 行.
+
+[ 2018-03-09T18:58:19+08:00 ] 117.61.128.200 /Test/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000382s ]
+NOTIC: [8] Undefined variable: checklogin /www/wwwroot/pay.com/pay/Index/Controller/BaseController.class.php 第 50 行.
+NOTIC: [8] A session had already been started - ignoring session_start() /www/wwwroot/pay.com/pay/Index/Controller/TestController.class.php 第 45 行.
+NOTIC: [8] Undefined offset: 2 /www/wwwroot/pay.com/pay/Common/Controller/DefaultController.class.php 第 203 行.
+NOTIC: [8] Undefined offset: 4 /www/wwwroot/pay.com/pay/Common/Controller/DefaultController.class.php 第 203 行.
+
+[ 2018-03-09T18:58:27+08:00 ] 117.61.128.200 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000338s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000375s ]
+NOTIC: [8] Undefined variable: checklogin /www/wwwroot/pay.com/pay/Index/Controller/BaseController.class.php 第 50 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000127s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008718s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008760s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000125s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000159s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000383s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000422s ]
+
+[ 2018-03-09T18:58:48+08:00 ] 117.61.128.200 /reg.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000262s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000341s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000379s ]
+NOTIC: [8] Undefined variable: checklogin /www/wwwroot/pay.com/pay/Index/Controller/BaseController.class.php 第 50 行.
+NOTIC: [2] Invalid argument supplied for foreach() /www/wwwroot/pay.com/pay/Common/Controller/DefaultController.class.php 第 215 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000099s ]
+NOTIC: [8] Undefined index: agent /www/wwwroot/pay.com/pay/Runtime/Cache/Index/5f5d9a23a6a926bd6863115f62f9b248.php 第 36 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008192s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008230s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000121s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000163s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000043s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.004111s ]
+NOTIC: [8] Undefined index: agent /www/wwwroot/pay.com/pay/Runtime/Cache/Index/5f5d9a23a6a926bd6863115f62f9b248.php 第 36 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.003760s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.000280s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000008s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.003911s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000378s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000411s ]
+
+[ 2018-03-09T18:58:48+08:00 ] 117.61.128.200 /Index/Index/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000259s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000335s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000373s ]
+NOTIC: [8] Undefined variable: checklogin /www/wwwroot/pay.com/pay/Index/Controller/BaseController.class.php 第 50 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000388s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000444s ]
+
+[ 2018-03-09T19:01:55+08:00 ] 117.61.128.200 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000256s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000340s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000377s ]
+NOTIC: [8] Undefined variable: checklogin /www/wwwroot/pay.com/pay/Index/Controller/BaseController.class.php 第 50 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000124s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008986s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009027s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000122s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000387s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000426s ]
+
+[ 2018-03-09T19:02:56+08:00 ] 117.61.128.200 /Test/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000322s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000387s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000434s ]
+NOTIC: [8] Undefined variable: checklogin /www/wwwroot/pay.com/pay/Index/Controller/BaseController.class.php 第 50 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000105s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009304s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009354s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000127s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000159s ]
+
+[ 2018-03-09T19:03:00+08:00 ] 122.224.34.163 /Pay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000260s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000327s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000368s ]
+NOTIC: [8] Undefined variable: checklogin /www/wwwroot/pay.com/pay/Index/Controller/BaseController.class.php 第 50 行.
+NOTIC: [8] Undefined index: fxaction /www/wwwroot/pay.com/pay/Index/Controller/PayController.class.php 第 15 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/bf/ff/bfff4bd152e3642a9d0da2a2834fd185.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/9c/39/9c39658c6aa5e94b57961f79d5bcfc76.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/0b/ae/0bae7b59fcf19226540054cd6451394b.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/c6/b9/c6b9c4de96563681c32fb35817d82805.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/2d/9d/2d9de18e696bd4609a99fa71fec9fa5a.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/83/f5/83f5a3c4ddfd8ea905604487859c1f28.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/b5/63/b5639f02e7546fe59b1d38d1dbbee326.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/9a/66/9a663b9d628af2ab833536d8f6093513.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/77/ec/77ecd4a1a85e922910112778547026c8.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/93/c1/93c1a5aeb2a5ac534d4ccc00386a258d.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/c9/3f/c93fc1c35a137530dbb78e22fa05cde1.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/e0/3c/e03ce016c001006be21f06ec95079d4f.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/25/fa/25fa3531313c7eab1c3bfddf86891ea8.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/2f/ca/2fcabcd2ae7eff50adeb019a46e62676.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/c5/c1/c5c16b18a08914d07ff29b884aede153.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/fe/2e/fe2ea10358b289e9992b7eb8c2d3f1ec.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/ef/e0/efe065ca27aa0505d59961e6b4936a09.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/21/cd/21cdd32df652d3b89867e4724302d436.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/b7/28/b7287937faa30812b79f259011ec9187.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/68/a7/68a7ca2f50e580d35f657b0ceb8cac48.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/ae/80/ae8051c08149a1d85b298d230cace8c1.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/64/20/6420a681c176b52fa879ab3f39f536f5.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/7d/48/7d48a3006275ce8e7892da37e7138407.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/4b/88/4b88fd79da5ce7599e882b8ef40b83fe.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/7d/4d/7d4d538e08a817a219907a613260622d.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/f3/1b/f31bbf5d7568507a4140bf14efa0d9b6.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/84/f4/84f4de7681446ce1753bbe9596659b99.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/02/9b/029bd8948003a49689faafbf1d55c3d1.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/be/75/be75a32fd00748d2c03b78261a07e3c8.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/1e/6a/1e6aad324a87288b3594390b7605c271.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/59/c5/59c5c35d48a99a0f56fec48243179827.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/85/e6/85e6cc9f6540169a413ac7a258cb71f8.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/f6/a1/f6a1b13f817fca73e49a1c9558e6cd60.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/c6/3d/c63dc1df0e3820c5ea92ab315a8e9a5d.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/42/c2/42c2bcdaf880f3788df679f6ad5ca01a.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/6e/95/6e95ef184c14d56fa302399f1ac3cbf2.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/0a/74/0a746de559514d4fc53437619248f26a.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/7e/c0/7ec08897d7028531f2442b2b499fd8bf.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/83/1a/831ad2486546d5e5999dd05ccbedf84c.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/9c/51/9c515af80d1f64df71dfe910e28cd887.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/7c/d8/7cd89644a0b340a56d82bc42f47e88bf.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/59/5b/595be1a58a89ee243b096f1808d34339.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/49/a5/49a566122d2c1e97d6828bef7030e695.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/de/83/de83e5de2bb5a0c6790dfb81f292aef2.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/10/99/10993279039982a31a78d63eb87c88be.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/be/ba/bebafa71fcf53f4f5dc39c4a9b31b0a0.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/4d/a8/4da875ca41b1e39abd087a15d7f6a207.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/36/ba/36bab1a2c81d90829b66d7eb2b8e7fea.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/e1/eb/e1eb956a6d711addcc2ff9904c5a8b88.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/3f/98/3f98598d058c4a6e354e95269b2d6820.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/ce/5f/ce5fbe6032a8e55f0ad4575abf4acb18.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/04/e5/04e58a2c613fddcb0599b942eccfdf87.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/5b/4e/5b4e4b13a888b2afd6f51b2d4843c63b.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/78/f9/78f9f86fe568705af0fc81189c6aa636.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/47/a8/47a8c231a40f2a830ecca2c0dc73ce96.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/18/62/1862cbde6534a4cc47e73e1abcc6f1e4.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/73/df/73df9a3f951f60a435a96daaf7a9a35e.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/03/43/03434a06bc5bef1853337aa176a20bb1.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/b2/64/b264256493c9a04fa04551885bc96cce.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/01/de/01de2b3634211fecf3b8b24c74c2d3ef.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/a4/ac/a4ac5bd58911fa4511d914719bff78ec.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/2e/93/2e930f08cad4f288e2171d5a001e7f7d.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/74/45/7445efb08ae46aacdc7952d59779ea8e.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/83/17/8317be86136bde2381f0f969e3a609c3.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/59/77/5977feedd4be74d9112b80715343d815.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/38/09/3809206cda0b7fd5db0af5682862a90e.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/b0/e8/b0e8a88d90190d9a21ede6a07ab8cea7.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/48/36/48364477f0622e13c957844da619849d.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/41/1c/411c2b6459efae73b2bdf2dc1e8ef5b9.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/90/26/902610f4d3c3fb65e8766e16161cf1cd.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/12/52/125251ce0a13618684c5defe03f4ab8b.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/47/97/4797221c5c0fb924da962d3ba40a53dd.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/7b/20/7b20a52729f6652f336581e9cf2afce1.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/8f/64/8f6472e7700bb6ac55ec88d46d587eaf.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/c8/e2/c8e2b483540399b39dcfa856d1b8a163.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/44/30/443047e3983f42f2ed1397f88e44f854.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/c6/83/c683024715b9db9d95cb38155c445225.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/17/d1/17d1ee1e8866f08fa73d9de8600f1160.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/dd/07/dd0793dc2206f2a5353f61333fe7199d.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/e7/99/e7996342910c5acf0a026ac763565a61.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/ca/03/ca0345de64b55101b201ea4e0b1f9ced.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/41/81/41815385868aa8ae5517ebf4232fbbb4.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/ee/0f/ee0f8e55083a7c815a315900b4dae360.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/44/57/445702dc6c45850aba5c4a2dc831be5b.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/49/9b/499b59165da489002309dca5df28307e.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/86/bc/86bcd41adf9bd846e283c8d3ac6efc56.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/d2/e1/d2e156463142aea2bafca161130b63ec.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/00/00/000094c1eab357096a457dfa17cfd6ee.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/e2/81/e281b5ed96523ed672c916203be93927.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/3f/bb/3fbbf2afad827529a1759150aef01be4.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/de/6d/de6d868dea9be7c3caa44c00a5523ddc.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/49/da/49da79aff29f43fb303e2d5c193e57ef.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/0c/b6/0cb6668b3ab238e00712eb9b5a116c9a.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/53/ce/53ce89531ee253d10a26c2838ddf0be0.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/ca/d2/cad213571af3f6bb8efb2fe76b1fc2bf.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/79/71/7971c25ad2b0094be940a9cc5edc0c7b.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/5e/a5/5ea592635a4f0376c09fd5d935fd0643.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/07/e5/07e5821692911bd2759e8ac22f25db91.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/e3/de/e3de5d4e5853957720c9085c2b5555f3.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/df/b0/dfb0d3873bb94fe87c6626652a0ca26b.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/a0/07/a007a6ceb2f7116e0c26d9381663cfd4.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/73/57/7357333468236b9b6c90b869f2d750d1.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/b8/62/b862a84facb06ed529e38de2dca943cb.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/f6/52/f652062703e9a91226dfc34ce1e88465.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/31/48/3148d12b65ebb66d31d70c5dc3cf3918.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/67/74/67747d75687345db9aee3f24b2dd02c3.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/3e/9c/3e9c92dc41c9233953fe63e0086dff59.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/0e/37/0e377529fb8f92a39577d971b81f0ec9.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/8e/80/8e804ea5a5c5286f49764bb61afc9cf6.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/91/6a/916a5ef0f7390b656425ebbab3d1d757.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/dc/20/dc206caafd842c4c9f241a7bbd0b0420.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/25/73/25739763ac353e556400419ed3673e45.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/5a/6f/5a6f4eb592c04d3c685f5c0ddd7077f4.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/68/27/6827bab9afb2c6ba0518c55d10eaefed.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/1d/ac/1dac3641cdcceae1f5971fb9b8eef2c7.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/90/7f/907f898e2e8a6870b4a5772681997ebe.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/07/ec/07ecb0f839d06314b22d2d01130c70e4.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/e9/11/e9114dcca7a672a82c857b235c492706.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/48/71/487135724a8b0e04c5be47961d909169.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/51/55/5155af517f18277ce940c75ee437b5a4.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/f3/44/f34449f4fed8825d2179f7ed4e49b1c3.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/24/b1/24b10ed15fb1c77d4b82df25cd6a2ef5.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/44/71/44711f30ff72bb9a84417366b13dd7c4.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/6f/08/6f082bf518c45e0ae93dfdbb984147e9.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/68/63/68635bfd08d5ae08a9dc32115570d709.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/a9/26/a92646ef182514b0799a09fb1b79d1c0.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/d2/95/d2953530a7a5e5eaa6c1aa510501b4df.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/3d/0b/3d0b6e284291217bcc3db005ef229e0b.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/71/34/713495cda8104fb0a60a216281680eb3.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/77/8d/778d2f2fc561b3f11a3a74fb64ab3711.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/f3/5c/f35c80eecffb9102d510cb038748f70f.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/7e/29/7e29a9a3df1966bd3934ddb91d4b6cdd.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/d3/bb/d3bbe23cab405d32e34b075a99dc6e86.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/96/d9/96d9193fdb36391953a012c4fc171651.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/d8/21/d8211b6ee4ddd7d7cfe294f710adc28f.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/44/dc/44dc9ee78357ac1f95b82a2e536ca463.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/19/26/19265f57f530779479c12187d32393f4.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/37/0d/370d85c0b6206b45c191f7fc54096b15.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/22/9c/229c084c5dd0e0fa68e7f2d57b91c399.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/a2/c2/a2c2700fdda7da75544cc724df6968d3.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/1e/be/1ebe686cba4033f89b276c07d3a7a30d.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/2a/9e/2a9ea599b55f25c570af4b4bb888c2ce.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/07/f4/07f460a60a66496eefcc7bbd45eaea49.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/a6/df/a6df98adfcd2b72c7a6c6e2f4146f945.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/02/01/02010b812c7d1d41ac2da91725c06ae8.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/e7/e7/e7e73f551e1bdbecf6078820da00c0b4.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/2d/f0/2df062980072e82f1cad89a0e620ad00.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/61/4f/614fcb1b4e16a071009da66332e288f2.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/3c/ce/3cce1cfa5765446e77a3a348ff0e57f3.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/a8/bb/a8bb014b7c893b2d956b40c92e8a3070.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/f6/8d/f68da1a472ef98847872cfc9bdb0b34f.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/79/a6/79a6bfc216c65bb27f807e1d32d0b7c8.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/90/53/905395d10be026741a46e4f61ba85536.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/1b/3a/1b3a9ee6cfb9a7bf12f9ae44f92188d5.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/8a/9a/8a9aec0fbcf00882f2e1e2aa84819825.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/6f/19/6f192c8087afcf85d7711b9fceaef7d8.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/c6/bc/c6bc153f4e5176ae2887235e49ec12df.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/62/6c/626cfc32580d4418fea62479c26fd9de.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/5f/44/5f44e50faed7427c5e8448f5b4341795.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/61/c6/61c646c19608529d5fe46f1608144509.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/32/cb/32cbb2d29de933d89008f40b0415e8de.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/3d/92/3d924923877b7527ea3b4b8cfe25e42b.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/80/70/80703cd08fb7d2bdb875f19ba1849168.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/8d/87/8d876c0e080bbc67750f7c83f50311dd.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/0d/93/0d93379625c3e4807fe1cb0f57d5886c.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/fb/58/fb589a95d7af31fef9be6c497acfa3ef.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/7a/b4/7ab406ef91602515232187dbeab57f68.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/10/f7/10f7ecbb44b60101c10546b3984521ec.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/7d/09/7d090a8c7d3c080145a16812834b63fd.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/f3/23/f323cd5998020887defc69d4d0d96d06.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/6a/8e/6a8e12bbb5acce34ad648e093b1151fc.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/ab/e7/abe75e87604b7bb8233051fc2bd6dafd.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/55/ac/55ac587448d821cf1263da33b2c8b3e8.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/95/bb/95bb7451bfef723e2ece66e394b1e574.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/c4/af/c4af98ec9e77f5927b73fbf621db110c.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/7e/30/7e30092066118747db30327e87a0be9c.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/d9/f6/d9f6e158bd7d5150ee2193327760bf39.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/f8/a3/f8a3b5a9f42271a53dba23258261d3ae.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/ec/7c/ec7c40c2300e41296b518d403b39510c.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/80/6a/806aff50996269c03afebc0f69e16098.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/bb/d5/bbd533bc12365ea9e41792af8944ce33.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/1c/e9/1ce96c1e927f6e8a4d0d664e083cb9e7.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/09/6e/096e2aa4e603e24c39117e27ca52440c.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/6a/8a/6a8a08b5b98646acafd19ff49ff42783.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/56/93/5693c03370008bcb7ed357994e8e3334.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/66/5b/665b61affd43104664f31bc8caa42a5d.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/3c/62/3c622e3632cbf21cf2fa1713d90d958d.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/59/67/59670c8592725ebaa024796293a30dcf.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/eb/14/eb147c52ec80d4c0754cee688521f0ee.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/7f/41/7f41e6258a04240477d0579cbf37730e.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/ea/45/ea4539e7b4325e0c01afc0ad77d2d1a3.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/87/94/87949a890f770c9b38b6d5a377b5b4fe.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/55/23/5523661ee748cdc732fff5eab580ea03.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/53/e2/53e21e85a6e6e981ce8e0ca4aa476ae0.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/81/f9/81f9c14f844385a05089ab1e117d8f06.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/59/1a/591a563884986f98540136b6fa281393.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/06/95/06957ba7924b128a2c431827821690ce.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/a2/7f/a27f84746a2df321df0e0ad098eb6dfd.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/3a/0b/3a0b3a05781a4fa29e62b49c8b47e921.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/26/88/268822e5efa9831e7244218b88fe28da.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/28/bc/28bc1ff4ce518a0fbb91933723aa02b5.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/e6/5f/e65f7f68415b7cc1bbf07042be69f6ef.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/d8/a9/d8a96ddd4ca2bf813440d9cfc982566d.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/e6/90/e690a16148a000fb933d5c3a40c03ce2.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/cd/b5/cdb5d446c5737f131d6c7ff165c16375.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/79/78/7978c37d302944ad976f956f716b3b42.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/60/3e/603e0dd9f72464689a9b224fdbd311d9.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/bb/10/bb10eb682a9c8f7a25c087de97561c7a.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/72/96/7296071413f9d76600a6a7e28a475f6c.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/e0/7d/e07d6848079f93f8ccc953248bdaef9c.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/39/17/3917cf51b6ac45b81712098842e5f647.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/dc/ff/dcff97dfcda4846a058051c9674a1e2e.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/8c/f3/8cf339bf55e869e38eb2b83294ea44e3.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/ac/26/ac26fc5cdb406c5fcd1c2d03965e89f2.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/10/6f/106ff547f80ded2c1b716d026fb947a1.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/92/f0/92f01f9c4553a161253d965536dab880.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/b4/b3/b4b3fe4005da99c71a9917886eb7b76d.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/dc/a9/dca921e92a42c000c9b68f1a2b1eaa50.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/df/b4/dfb40a8315782798b97b49fab2be6b67.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/f2/7b/f27b009343a0b3acf5d5f32997eaf143.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/71/7b/717b372584524e128936770e4000666a.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/c1/0d/c10dd1c91ef90c03d68034c1ad8b435f.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/75/3f/753f11fc55de8ab4e5d87f8e336187e2.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/23/eb/23eb12962aa37d4af1f1d6ddd983f5bc.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/a5/e8/a5e80457ee4c16a6af5e7c295bdd8309.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/a4/7d/a47de405ee75455b6a69962046d75250.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/cd/4c/cd4c499cfd4913dea10fad13daa9e963.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/6e/d8/6ed8d35ee7da28e305b60b659dbc13ad.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/ee/10/ee10bf812fb0aac010cec7e55201ade3.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/06/c7/06c7849a808cf695c834fa0ceb2266cb.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/75/68/75680387d936af10fe82893ac5916f42.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/99/88/998852673b6b2d55016d306a1b7efae0.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/7b/ab/7bab37122c62a72337508810af228827.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/93/91/93919b775cba41f226691a08815e7910.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/19/10/191033c11e22d616fcb7122bd6bfb3ab.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/5a/6d/5a6debf519c607f1a3b120f7313453ff.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/c1/2f/c12f156eef1dbc7f6d5b0dc7f2d8d412.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/c5/bd/c5bd54a57b63e2abc003cb10ca537c6b.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/ac/84/ac8498ebcab357f8b35884cbae72a0db.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/27/eb/27ebd1e806e977d3ab4cc31d96abca9f.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/82/b6/82b6213f7405f6eed842049f7610a616.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/2e/3c/2e3c4b6aaae731ba0a6095516a823850.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/cf/15/cf1549715824c124af81b15e131c7892.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/26/1b/261bbc9230d148965cbd099814eef8e5.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/e3/09/e3090b64b4a855d578bfdbc0b873dfdf.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/db/76/db764812914ffd4b8c5a793c2e37a5bc.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/48/3d/483df79bc9d62c39f376b915b1b30138.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/ef/a4/efa4b27a4f7092120aab37ca8106a1d6.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/52/23/5223c219d54276f934af17706098977f.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/54/2e/542e5a3b761c7f087297ae68066a1328.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/a1/b0/a1b0098f088252a3fec14d531b007c59.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/9a/f6/9af618ad5ba3b9b730151597d70e06cb.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/9d/e3/9de32e52a504c81e36fe376913e9f9a1.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/87/4e/874e4103e1f00120cebb53d568964d36.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/4c/ae/4caeff599d9c543639d5471f53015008.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/d4/f5/d4f5bfffaf2a1a0fc774bc663b2eb0fc.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/85/ea/85ea653339227db33a5396a75da2ee2e.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/54/87/5487f1c1fb24e8d52b004449a98534d8.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/be/f2/bef2d321ab85af561e39d609d830b6a5.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/29/d9/29d94c5751f0e0a10e2d3320f3a53817.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/83/8c/838c948c49e3c5022fda61ec07330d62.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/7e/e1/7ee11a89895cb87ecfcedfab49318b62.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/0a/ed/0aed55feecbe25704975ac375e1c7b9a.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/1a/60/1a60decbb257e1303de7323192708c6b.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/fe/f9/fef99c73320acfb4af928a71adc630a0.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/f0/72/f072616be1d9414b2fbd3a4a4d08d98a.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/bd/87/bd87830578546a959f5bf925e79cd325.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/38/92/3892e0d14ba7847cf9213ddde2614547.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/fa/37/fa37ced4a1a64f01594514028471932e.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/c7/80/c780830b8cb4b3a93416691de63cbab0.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/6e/5d/6e5dc9f25462f88dcd4a742b5f755c49.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/80/60/806093f3a53a2c804884917a633fe98a.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/e5/f1/e5f167d3c57466195e335ab3743f0762.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/f2/bd/f2bda09d88c7309c7070fead859119b5.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/4f/58/4f58942f0d76a2b65a05df0ae2567b75.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/22/27/2227beef2b22bc4c24714a9a769082b5.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/22/76/22769cdcc2415962e1739117bc69edcf.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/82/b9/82b9df5cdce01f29a0caa8a437aee05d.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/15/a1/15a1b4ab59b4409336a2310c4ce32b5e.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/e0/c6/e0c6ed30cb5169506075e3adc1dc2943.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/9c/16/9c16d0fffe2c799e77a7020e880145f0.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/cf/6f/cf6fe004c0f8b8a3f2c3714a2d1b55aa.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/45/f9/45f9873af5f015c6954c0abd26bb2da2.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/08/58/085893cfe9e11058477d493bfe653ff4.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/3c/12/3c126b45b2cb9e6b7622e723930bf6da.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/30/1e/301e11e4bdc46f64807e288acccb8628.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/9b/80/9b803f644afc60569d28f9f9a40b1148.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/d2/b5/d2b570167111461b1e4ce99b40e77e2c.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/a9/c3/a9c386b7df3f6fee6861905fd53d6da2.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/d7/b7/d7b78ed9675d25f8a9d6c8411076a435.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/d7/2d/d72d0f088d59f1cb2a7cf294ce4b5d8d.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/b8/09/b809c254b0c39e101f2bc16cc0ec3e9b.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/23/28/23285299b6d34ac359c6860d42325e31.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/79/44/7944e68df9ee735113cfcf8b73bc7b91.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/12/77/1277364dacbc069ae7b111e1c8e87b5d.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/79/19/791917653066a6e9471ba0b7d4aebfb6.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/0b/e9/0be92d05b4bf7347c73c50ec6a973c84.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/f6/aa/f6aa728c6a994f3f5b4823bc1ea4148f.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/19/69/196939e6b30da23fb7e4116c92dc5a5f.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/81/ec/81ec84d1c66125639d9f4898f048d658.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/86/ef/86efdcfbcf0a1d3ff92d1fb3a2e66be1.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/38/c2/38c239c4fff5e17bd481bd73e510a79e.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/fa/4b/fa4bd5a05ef0953bbac7ed4794dcf621.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/3c/00/3c00981b316acd217932cc474b2b0f5d.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/aa/24/aa24e8a5e9d662b07737f41a1636a79d.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/55/20/552014dd1488362d19e325e7b0537424.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/7a/1f/7a1f34de2d39420ebea7c937a6bc8b76.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/be/b6/beb65ce817ea227b2ebb7eabaf1bdeab.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/1e/43/1e43cccd32350b9b138aad2aeb72f794.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/9d/f4/9df4129829c64906a8adea617bf9ab7a.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/07/f7/07f732fe75387e6dfe89c9a32e37b6f6.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/a1/e1/a1e140a5cd2115e1de69589501cac872.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/2a/f0/2af0c4cf74e9377442772e32988f13bd.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/95/dd/95dd4cd851fbb273604e2b5568a996be.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/26/79/26792f4c9596eb67b4aa8020d2878c22.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/3f/59/3f59728a1310fbaa90944176da5b0daa.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/6f/c2/6fc232a2778c242fa99980b57488f546.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/7e/f9/7ef98c89e5e00c873f0707a534988172.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/fa/4e/fa4ea0b169cc348b8ffc8a894d611e9d.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/72/4b/724b1ddda79079edee08baabd8f29b8d.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/99/24/99243b536b73a85168edcdb3e17a8891.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/1b/c3/1bc3129f36a9a4f1d50640d7a60e6bbf.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/9f/a7/9fa7c262eba1f1c977209c73953d6ce4.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/ab/39/ab3973393b456414a492654606426fc3.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/da/47/da4775fed60ade4fb2448a160296106d.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/23/b6/23b6de473bb2f3e956dc640a0d040e21.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/98/4d/984d1737e676a4a37ae97db44d366399.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/d9/6b/d96bf8144974bd41cbbf904bc8bdf569.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/b9/2e/b92ebe86d92192aa29d73b83a5ca17c8.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/83/10/831037c9ce6102493030c32d5a8dbc9d.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/eb/b2/ebb2e34bd1eaea50375bb1f3ba671d4a.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/21/d6/21d663c8ab23e57c0e5640d261ef92cb.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/39/4a/394a4dd727ecb65a11d4da7873940900.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/a0/15/a0150c7801c4c008a450a946108bf5d7.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/22/cb/22cb13f17eb074d1a1a58bf589b00538.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/dd/43/dd43fc586c1515fd18490c99611fec62.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/06/39/06399047335e7d2c2085a4536c0030cb.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/c1/8b/c18b890e185083c82b87670071edc106.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/79/e9/79e904050f640f82ded26aa84a151bff.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/05/60/05600c90102b22a10663e9f58b981946.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/cb/f2/cbf2a7191a34ec547f46b714055e5615.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/15/d4/15d458a8790eb5c472e0ab40c313f840.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/51/ba/51babc16022e09270640485c024b0f81.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/cb/ab/cbab9fe023ea2013505a800c0a31956b.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/c3/bb/c3bb3e6bacba665b7635ef359012a186.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/57/21/572120ac6c1f930ee1e8f1d7714c2f4d.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/93/42/9342eac1ed794097a6d0aa09d78b26f2.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/0b/39/0b39f27e58e69b2ea355f5decf5cebbe.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/04/bb/04bbfbc8290bf1a5f91bc2596cc23312.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/60/f1/60f13fad28d0ee9b60d0bea568cb829f.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/4c/e5/4ce5bf081b01281a99b679b0b48e05fe.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/18/ae/18aeea40c2fc548e29ce187de42040be.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/af/5b/af5b7401ad2595d2e2dadf999eac075a.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/4e/80/4e809a21137f3df04dd0f6e14eed81fd.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/8d/28/8d285589e5012df5af09009e13b2ee42.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/de/0c/de0ce0df7deb9b6e5a6b8a646967a0ba.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/e7/ca/e7ca7e9f1d94afa60d3ef492d1af0154.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/bb/67/bb6715e07eb2a99556598ba9fb20217f.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/89/ef/89ef066fea07b76af20986ea20c9826b.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/91/9c/919ca121bc414c577a6cdc3fe69a4583.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/45/59/4559d8504df667e1f5e35f9428f6e314.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/f1/a2/f1a2a13a742ca00863df6ff7489e5869.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/cb/38/cb382995f87e46d472d1e36e5fc18aba.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/70/19/7019776ac1bb395ffeec509007a23c6b.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/0d/9f/0d9f3da75ce2c9d366452ca33a1e2299.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/fc/e9/fce9858e79da7535ede31eb4e2f4d582.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/1f/1e/1f1ef657da5c27fc9ef229e1f7620ec2.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/4c/ec/4cec21b8edcbfab8575426e848f9aa14.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/9f/32/9f32fbb044c376e0a150e398097a69f9.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/74/34/74349c05349e41fa557d80c466eae741.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/e7/bd/e7bd5e1bc4e5304c457717a8dceb0217.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/c9/4f/c94f5dd19234a39e113b08ea8ac2bbd2.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/04/80/04806a0a39d10f3568b3051d25254d72.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/6b/32/6b32e4cf85f60cefa82ecded8accd811.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/04/51/04518d6929dd3401a1ecfb19de243e09.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/bb/9a/bb9ac448580fcf7d0b930dbe7edb62cd.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/5f/8d/5f8d572025cb7977a6a0d567a4f2599f.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/1f/ac/1fac914533534e9ea0a8963a064982c0.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/f7/0a/f70a97f69fd66e723ef0f9b61357ac33.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/fb/09/fb09afccd146f8ab1efbe291c4ec9680.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/f1/49/f149ccfe05581dbbf9064192cf853621.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/71/d7/71d7357e782dd7c2f4037f561f98bbb4.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/82/d1/82d1b8cfe5973a2e771eda3bd1febc1b.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/b1/27/b12714587153c35ec288c08acc346654.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/9a/ba/9aba7dc633c5b76329edca23d4ed72d2.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/58/f9/58f9d0a215c43fe317bb4bbf58887742.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/75/58/7558bb02f2f9677bd473492a41160496.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/36/20/3620ef1997a092282f6e6ea51f3f9fbe.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/59/c3/59c39cc61a5eb41bc6aa2b4ca9788e5a.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/e0/b5/e0b530310cd57d5f8ce1f7b0e2d70986.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/93/ea/93ea433a8c2225ba60bd2d7e08dd229f.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/3e/0a/3e0a0877c2fb1ab0228ed30307f8db6e.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/54/8f/548f3df4ca3ce84e80cfdf1a40500bf3.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/aa/45/aa45daf3b01321d9990372733fe3beac.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/7e/f3/7ef325aaefdafcb2a41d7c56f4d0f5ef.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/c5/15/c5155f3578605681b254f4e216147930.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/c7/5e/c75eb30ddfe03cf2238d8cc3a0cba644.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/fa/e9/fae9ce226df4c42c05689c2bc1e5b2a5.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/ae/d4/aed44a6246163d96b8d759cf4220dc49.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/3e/51/3e51e2b83edacb0ff9028b44d8597f4b.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/0d/c9/0dc9ce62a881c8b99e206df1ed7c0343.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/b5/14/b514ec510e00a47c3e0871948a2dff67.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/8c/3b/8c3b7834eec59f94d955caef43948239.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/c6/96/c6965eaac1d20fcca88da9e90ec81dc4.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/61/ca/61ca70eeaf59a066aa77b3f918391f17.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/b3/d3/b3d377b55b3f11cb4ff62a4782b1c343.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/b7/7d/b77d04012ae9960e54e1e37f4a6f8fa0.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/76/43/76430c7737bc615d792cffb5b66923ca.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/24/5a/245a5426ef80f51e643fcff55dde021e.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/9e/9f/9e9f03bd4527a738c317ffbdcb850b69.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/ce/45/ce45036d292ec3e9606594e59141f65d.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/76/20/7620fe6461b6dcabc5433ccd70b24e21.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/be/be/bebe63ba8faff356f28288864acdcda8.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/49/1a/491a047061a5c5495185a843b23b6421.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/4d/61/4d618ed5a591d7ef56721b1d62bd4e11.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/56/d0/56d0415125ba5c2ed64f28c44aec9d29.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/92/a1/92a1cbf5b7f7a1909a04ac25eae6f738.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/8f/78/8f78bd2c36954f2c9a35adff33845557.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/53/a8/53a8ff1d2f70f4f0e5609092f8281a23.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/0b/45/0b45f58cc45eb053ee5810fd3c261bd2.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/79/ed/79ed73372aebd99dc24c3ccf88ed17db.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/9a/ac/9aac885a7b107920d6e6dadabd5e1819.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/d4/89/d489960c189388f7f5c26d3203669028.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/fc/f8/fcf83fbf7c3c7aa8df1364c971383997.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/ac/7a/ac7ae776785b15f5d29ff98b9824c27e.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/4a/42/4a420d4dd3e7c68e854aee39294b6242.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/b0/55/b0557add939ad018ec74f44004b7e4f6.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/d4/fa/d4fa8f488a25c2e75db48424caf8a315.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/b2/05/b205b1fa583e8d8bbf36be84e71ccf7a.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/2b/f7/2bf712baf1655166b52a87977a5e4a26.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/0d/40/0d408f87a5390aa5cd91471711a95b28.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/3c/96/3c96e32f9637e89f6921b7383d81facd.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/60/a4/60a445d89d46a1fdb4e11789825fcbc5.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/40/97/4097296ef1945a4ac8f65409d8344dd8.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/17/00/1700f753baa2ac9c4361a99fdb1ed986.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/7d/cd/7dcd2285d4d69253b92c0838114e27f3.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/ae/62/ae6282b88d111ac47949d379bff16c54.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/81/70/817008af9f9fdeeefe265fa881faeec0.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/43/8d/438dd5e7bd14743f442a67beb3525abb.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/23/fa/23fa72b9936f218e068ebbfeec7270e7.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/9b/a6/9ba6849a5d797c644f535bc6fe3e3a5b.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/61/31/6131e97501f84a8a26b12ae8c6a02937.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/cb/e3/cbe34f8fc45290f731401f38dab38119.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/09/ad/09ad543e56844b395a3edcd4fe3cf7ce.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/46/ae/46ae03927baa6aa51f201b989dee141b.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/16/55/1655c8cb2c5084e31c3c31f7be166b47.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/d2/06/d206fc2df82d942ff08812a90e7d3a59.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/c0/cd/c0cd4020ee29e59d5bc19f219954f200.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/a9/cc/a9cc60b79f4c103e50a26406678ee479.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/66/97/66979630f89aa72f808b747ba375b55d.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/f8/56/f8562ae624012802dc93a48e8bcac9e1.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/65/d4/65d47ae1cd2b8c24d715d6246f3d9bee.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/3d/80/3d8092858362163e497d253423de3ab9.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/4a/21/4a216d24be6a6577cfd453bfff17918e.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/b1/8f/b18febc915d4de16d54d270b55a87c37.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/c2/97/c29717dd9322f48a34217d42263fd44e.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/51/b1/51b14ac5843a509ad7b2ce4751b7140b.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/67/49/6749cb1674c1f1aef5fca178a97aad64.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/6d/16/6d1653fe6384ee18a49fbbff7db63293.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/29/f3/29f3513d5052ad6242f4c8f5faea253d.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/5e/f0/5ef06407107d476c0e412ae9f77c2186.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/0f/29/0f29380752c5517f1b34a712ea585daf.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/42/5f/425fd52d919b1577e5e3d826271e5dc6.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/87/c2/87c23c9d95008a21e5f17b214d1d3d07.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/f8/98/f898a4af5874e28765c5d28ca0f2f9fa.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/60/01/600126d42dbb034d3903c4c1dd98afd2.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/78/9b/789bd62b67ff7a36dd10176f47f39acb.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/00/51/005168bfed952e1b9caf8b1c00ed6935.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/2b/2d/2b2d83431227770b0ff0a021c4f38ccd.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/17/69/1769e660243b264801c278be7af1def1.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/c9/15/c91534a9a83612b8fafe6e6808036ee9.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/68/29/68292d5358b66762be6e97a0cabe601f.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/57/d1/57d13ad7ae4f10f11946d840b54c5cf8.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/ff/23/ff23ebd78d62b43feb3aa2d7ae7fe252.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/d6/e4/d6e43d108deae9e9ff40ee06f7bad0a0.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/de/2e/de2e02eb118424a33c8599e7a48bf388.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/73/45/734517101e39fd0ede84e4125ba1f0ec.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/b6/1e/b61ec9da7bfc6452f325896121a4677a.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/17/be/17be93d5444483a5a806b8ed826466ce.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/90/46/9046208acc49e2d12cdac6cd86d3eb40.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/3e/49/3e4971025a7aa9dcdadb2e9126bf35f7.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/c3/61/c361f41cb6226875f3946c86d81103dd.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/51/aa/51aaef54ca5d66a8e6dff0a86a917d0b.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/e3/17/e317b7f18b5913c952e9f1ba2b0b415b.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/c3/7e/c37ec9f0a35165f0c17e0dabb10a9eef.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/bd/7f/bd7fe290e2f492bdf9bea9a9e413a0b4.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/a2/27/a22766ba05ca439f7c757bc36381fe5f.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/c7/fa/c7fa7b303df88d497d3c0680565b3518.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/b7/6d/b76d416f2c2e419bb3ce2f5d493f459b.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/f5/00/f5009d045f008cd8823a2318fcfa5c44.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/83/38/83382e070506902ec7e77f4a68c1130d.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/0a/b0/0ab062f8a78439d530fe3b3f6d44f7e6.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/8a/6e/8a6eb0ecf9effe41f87d1bb021d77fe2.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/3e/d1/3ed19eb991c97943709a1773d25f4f42.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/5f/f1/5ff13e497cb67a58041d9840c38478c4.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/bb/48/bb48a25d8857ba78c624d73f28e8bb5b.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/3e/7c/3e7c685389c398f0ddb957de9ed1c7ce.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/01/eb/01ebc84a15a88034d6d3974a758fa3d1.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/05/4f/054f348e07e64271e2117e3425c5d996.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/a7/a6/a7a6591b0709c7dcb461e0017da0dbcf.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/09/b3/09b33074760ff858e9e1096fb1a8eb5a.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/7e/f0/7ef04deefde658149ebb4152a74db2db.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/be/0a/be0a8ab3aa7490e6bb84a6f6c78124ed.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/0f/54/0f542edb6613c0cd51fbf6c72e458750.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/bc/e0/bce0fd9d3f22fc36cff827613b11ec3e.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/ed/0e/ed0e0e3545d521e681630b6d5c533e4d.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/f4/c1/f4c1e59dd7d6fc6c1764b8d1e57b37c2.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/96/ce/96cef730b557883baf987e1a175e55a0.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/f1/a0/f1a08f226009b70513c37f884c04c1f7.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/95/df/95dfb9c9355463fbce9083c172a7731e.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/cf/60/cf60d45c8a1867ffd2427c2cfdbb5cfd.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/56/95/5695010075937eb107b7005dcd593f38.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/94/45/9445f562f677de20cf3010697b45251d.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/13/da/13da823acaaecc9890bb9449933d1660.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/5c/59/5c595d184aa996ed93ddec5e80cfd921.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/de/48/de482030755eb2e93aabee12d27c9a51.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/ff/b0/ffb05efb67bfdc800d016f2a63184fc9.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/f2/5f/f25fd4343c1ecdccccf9887ade28bbf9.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/56/36/56362a4ce03b94163c348c3b9b9c6b95.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/87/6d/876dec96da5528fd7157297c91ca4651.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/09/26/0926aca15169dbbac408efd8f0bc3e8b.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/5b/1c/5b1c60c4bd78940197a314ae3a85d00d.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/b5/1c/b51c3d7475b3a0372b9693df902f474e.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/c2/0f/c20f122ae07cd3e855ea96afefacc2d1.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/c2/0e/c20e82f1400ca28ebe774d45d7de08f0.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/4a/e1/4ae1ff48219256dc0570b4cc8febed7c.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/2a/19/2a198e7702d5939d11642f498d122651.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/26/6b/266b35a7e39fd24aaa94ff8840fafc21.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/57/8e/578e2fd28edec618282776f9ef281991.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/a2/16/a216e67712b28fc4694d52380bcc896b.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/4e/fb/4efb8ac0690f96771f05d5dbb4fd6653.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/aa/64/aa64dfa8f6a6865efcbf811689de806a.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/77/6e/776ef50ae569a082c1b643c34f040fc2.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/4e/97/4e9756eb93c8f22c7c9e80651e8c5ae3.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/58/59/5859b488914a2f9c7baaaa6ba2cdbcd9.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/dd/30/dd3079693b9bfd12543e7d8b6946b89c.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/61/b6/61b6546a0817d319ea0bb06e8cd26563.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/1e/e1/1ee1c9ed8cf3388ab372dab734d3f46e.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/4b/45/4b456416c35364a80b31fd7ec192b96c.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/ef/b9/efb9425fe45db809b821f4ddad567695.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/59/b0/59b03ca26ef4d2fe28d72db5c35fcf8a.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/65/5d/655dbaf362c631c6d28a4c89ec77e20f.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/48/26/48269bd3bbeeead30bd1d75eb79f6652.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/04/c2/04c206259e30720300b3f4766274a0aa.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/ed/34/ed34029a31f3a5c751208cc6f4143083.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/aa/17/aa1762ad27bb87b7350bee5a5924af7a.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/4f/1a/4f1a63da8cc7af140c166aab2286e3be.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+NOTIC: [2] filemtime(): stat failed for /tmp/LtAutoloader-token-cache/b1/94/b194b2bb5d76bd5091fed892261901ae.php /www/wwwroot/pay.com/pay/Common/Tool/alipay/lotusphp_runtime/Autoloader/Autoloader.php 第 277 行.
+
+[ 2018-03-09T19:03:00+08:00 ] 117.61.128.200 /Test/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000259s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000333s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000369s ]
+NOTIC: [8] Undefined variable: checklogin /www/wwwroot/pay.com/pay/Index/Controller/BaseController.class.php 第 50 行.
+NOTIC: [8] A session had already been started - ignoring session_start() /www/wwwroot/pay.com/pay/Index/Controller/TestController.class.php 第 45 行.
+NOTIC: [8] Undefined offset: 2 /www/wwwroot/pay.com/pay/Common/Controller/DefaultController.class.php 第 203 行.
+NOTIC: [8] Undefined offset: 4 /www/wwwroot/pay.com/pay/Common/Controller/DefaultController.class.php 第 203 行.
+
+[ 2018-03-09T19:04:05+08:00 ] 117.61.128.200 /Test/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000264s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000334s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000372s ]
+NOTIC: [8] Undefined variable: checklogin /www/wwwroot/pay.com/pay/Index/Controller/BaseController.class.php 第 50 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000094s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007613s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007657s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000119s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000152s ]
+
+[ 2018-03-09T19:04:08+08:00 ] 122.224.34.163 /Pay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000328s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000367s ]
+NOTIC: [8] Undefined variable: checklogin /www/wwwroot/pay.com/pay/Index/Controller/BaseController.class.php 第 50 行.
+NOTIC: [8] Undefined index: fxaction /www/wwwroot/pay.com/pay/Index/Controller/PayController.class.php 第 15 行.
+NOTIC: [8] Undefined property: stdClass::$sign /www/wwwroot/pay.com/pay/Common/Tool/alipay/aop/AopClient.php 第 818 行.
+ERR:  check sign Fail! The reason : signData is Empty
+
+[ 2018-03-09T19:04:08+08:00 ] 117.61.128.200 /Test/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000375s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000417s ]
+NOTIC: [8] Undefined variable: checklogin /www/wwwroot/pay.com/pay/Index/Controller/BaseController.class.php 第 50 行.
+NOTIC: [8] A session had already been started - ignoring session_start() /www/wwwroot/pay.com/pay/Index/Controller/TestController.class.php 第 45 行.
+NOTIC: [8] Undefined offset: 2 /www/wwwroot/pay.com/pay/Common/Controller/DefaultController.class.php 第 193 行.
+NOTIC: [8] Undefined offset: 3 /www/wwwroot/pay.com/pay/Common/Controller/DefaultController.class.php 第 193 行.
+NOTIC: [8] Undefined offset: 4 /www/wwwroot/pay.com/pay/Common/Controller/DefaultController.class.php 第 193 行.
+
+[ 2018-03-09T19:05:53+08:00 ] 106.117.40.135 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000260s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000337s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000374s ]
+NOTIC: [8] Undefined variable: checklogin /www/wwwroot/pay.com/pay/Index/Controller/BaseController.class.php 第 50 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000126s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009036s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009076s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000122s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000398s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000439s ]
+
+[ 2018-03-09T19:08:09+08:00 ] 221.192.179.154 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000259s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000340s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000378s ]
+NOTIC: [8] Undefined variable: checklogin /www/wwwroot/pay.com/pay/Index/Controller/BaseController.class.php 第 50 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000126s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009257s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009296s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000122s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000403s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000442s ]
+
+[ 2018-03-09T19:09:09+08:00 ] 61.151.178.164 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000257s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000334s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000373s ]
+NOTIC: [8] Undefined variable: checklogin /www/wwwroot/pay.com/pay/Index/Controller/BaseController.class.php 第 50 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000077s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000127s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008985s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009024s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000120s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000153s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000428s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000468s ]
+
+[ 2018-03-09T19:14:18+08:00 ] 122.224.34.163 /Pay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000338s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000378s ]
+NOTIC: [8] Undefined variable: checklogin /www/wwwroot/pay.com/pay/Index/Controller/BaseController.class.php 第 50 行.
+NOTIC: [8] Undefined index: fxaction /www/wwwroot/pay.com/pay/Index/Controller/PayController.class.php 第 15 行.
+
+[ 2018-03-09T19:14:18+08:00 ] 117.61.128.200 /Test/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000266s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000338s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000373s ]
+NOTIC: [8] Undefined variable: checklogin /www/wwwroot/pay.com/pay/Index/Controller/BaseController.class.php 第 50 行.
+NOTIC: [8] A session had already been started - ignoring session_start() /www/wwwroot/pay.com/pay/Index/Controller/TestController.class.php 第 45 行.
+NOTIC: [8] Undefined offset: 2 /www/wwwroot/pay.com/pay/Common/Controller/DefaultController.class.php 第 203 行.
+NOTIC: [8] Undefined offset: 4 /www/wwwroot/pay.com/pay/Common/Controller/DefaultController.class.php 第 203 行.
+
+[ 2018-03-09T19:14:19+08:00 ] 122.224.34.163 /Pay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000261s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000328s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000380s ]
+NOTIC: [8] Undefined variable: checklogin /www/wwwroot/pay.com/pay/Index/Controller/BaseController.class.php 第 50 行.
+NOTIC: [8] Undefined index: fxaction /www/wwwroot/pay.com/pay/Index/Controller/PayController.class.php 第 15 行.
+
+[ 2018-03-09T19:14:19+08:00 ] 117.61.128.200 /Test/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000256s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000327s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000364s ]
+NOTIC: [8] Undefined variable: checklogin /www/wwwroot/pay.com/pay/Index/Controller/BaseController.class.php 第 50 行.
+NOTIC: [8] A session had already been started - ignoring session_start() /www/wwwroot/pay.com/pay/Index/Controller/TestController.class.php 第 45 行.
+NOTIC: [8] Undefined offset: 2 /www/wwwroot/pay.com/pay/Common/Controller/DefaultController.class.php 第 203 行.
+NOTIC: [8] Undefined offset: 4 /www/wwwroot/pay.com/pay/Common/Controller/DefaultController.class.php 第 203 行.
+
+[ 2018-03-09T19:15:49+08:00 ] 117.61.128.200 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000256s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000341s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000378s ]
+NOTIC: [8] Undefined variable: checklogin /www/wwwroot/pay.com/pay/Index/Controller/BaseController.class.php 第 50 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000125s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008724s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008764s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000122s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000388s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000427s ]
+
+[ 2018-03-09T19:22:48+08:00 ] 117.61.128.200 /Test/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000343s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000383s ]
+NOTIC: [8] Undefined variable: checklogin /www/wwwroot/pay.com/pay/Index/Controller/BaseController.class.php 第 50 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000045s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000098s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007570s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007613s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000119s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000152s ]
+
+[ 2018-03-09T19:22:50+08:00 ] 122.224.34.163 /Pay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000332s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000371s ]
+NOTIC: [8] Undefined variable: checklogin /www/wwwroot/pay.com/pay/Index/Controller/BaseController.class.php 第 50 行.
+NOTIC: [8] Undefined index: fxaction /www/wwwroot/pay.com/pay/Index/Controller/PayController.class.php 第 15 行.
+
+[ 2018-03-09T19:22:50+08:00 ] 117.61.128.200 /Test/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000259s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000332s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000368s ]
+NOTIC: [8] Undefined variable: checklogin /www/wwwroot/pay.com/pay/Index/Controller/BaseController.class.php 第 50 行.
+NOTIC: [8] A session had already been started - ignoring session_start() /www/wwwroot/pay.com/pay/Index/Controller/TestController.class.php 第 45 行.
+NOTIC: [8] Undefined offset: 2 /www/wwwroot/pay.com/pay/Common/Controller/DefaultController.class.php 第 203 行.
+NOTIC: [8] Undefined offset: 4 /www/wwwroot/pay.com/pay/Common/Controller/DefaultController.class.php 第 203 行.
+
+[ 2018-03-09T19:23:06+08:00 ] 117.61.128.200 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000368s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000411s ]
+NOTIC: [8] Undefined variable: checklogin /www/wwwroot/pay.com/pay/Index/Controller/BaseController.class.php 第 50 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000084s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000135s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009008s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009054s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000122s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000157s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000398s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000438s ]
+
+[ 2018-03-09T19:24:02+08:00 ] 101.226.65.107 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000367s ]
+NOTIC: [8] Undefined variable: checklogin /www/wwwroot/pay.com/pay/Index/Controller/BaseController.class.php 第 50 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000126s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009083s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009125s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000121s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000384s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000434s ]
+
+[ 2018-03-09T19:24:05+08:00 ] 117.61.128.200 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000259s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000339s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000378s ]
+NOTIC: [8] Undefined variable: checklogin /www/wwwroot/pay.com/pay/Index/Controller/BaseController.class.php 第 50 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000078s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000127s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009036s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009076s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000122s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000382s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000422s ]
+
+[ 2018-03-09T19:48:48+08:00 ] 117.61.128.200 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000260s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000331s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000369s ]
+NOTIC: [8] Undefined variable: checklogin /www/wwwroot/pay.com/pay/Index/Controller/BaseController.class.php 第 50 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000125s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008633s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008672s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000122s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000157s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000376s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000415s ]
+
+[ 2018-03-09T20:17:08+08:00 ] 123.151.76.248 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000260s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000368s ]
+NOTIC: [8] Undefined variable: checklogin /www/wwwroot/pay.com/pay/Index/Controller/BaseController.class.php 第 50 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000126s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008689s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008730s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000121s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000154s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000389s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000429s ]
+
+[ 2018-03-09T20:17:09+08:00 ] 123.151.76.248 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000268s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000343s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000380s ]
+NOTIC: [8] Undefined variable: checklogin /www/wwwroot/pay.com/pay/Index/Controller/BaseController.class.php 第 50 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000086s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000145s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008822s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008868s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000136s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000171s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000395s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000440s ]
+
+[ 2018-03-09T20:17:37+08:00 ] 221.192.179.154 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000368s ]
+NOTIC: [8] Undefined variable: checklogin /www/wwwroot/pay.com/pay/Index/Controller/BaseController.class.php 第 50 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000124s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008627s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008666s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000121s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000153s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000386s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000423s ]
+
+[ 2018-03-09T22:13:11+08:00 ] 101.226.64.174 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000260s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000331s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000368s ]
+NOTIC: [8] Undefined variable: checklogin /www/wwwroot/pay.com/pay/Index/Controller/BaseController.class.php 第 50 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000126s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008738s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008778s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000122s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000394s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000433s ]
+
+[ 2018-03-09T23:43:53+08:00 ] 106.117.40.135 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000283s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000332s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000371s ]
+NOTIC: [8] Undefined variable: checklogin /www/wwwroot/pay.com/pay/Index/Controller/BaseController.class.php 第 50 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000126s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008597s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008636s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000124s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000156s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000392s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000432s ]
+

@@ -1,0 +1,178 @@
+{#include file="Public/header" /#}
+{#include file="Public/top" /#}
+<div id="main">
+    <div class="container-fluid">
+        <div class="row">
+            {#include file="Public/left" /#}
+            <div class="col-md-10">
+                <div class="right-content">
+
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            {#$pageName#}
+                        </div>
+                        <form class="layui-form form-container form-ajax form-horizontal" action="{#:U('Api/saveuser')#}" method="post">
+                            <div class="panel-body">
+                                <div class="form-group">
+                                    <label class="col-md-2 control-label">
+                                        名称：
+                                    </label>
+                                    <div class="col-md-4">
+                                        <input type="text" class="form-control"  name="pzname" value="{#$edit.pzname#}" required lay-verify="required" placeholder="请输入名称" />
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <label class="col-md-2 control-label">
+                                        类型：
+                                    </label>
+                                    <div class="col-md-4">
+                                        <select name="style" class="form-control style">
+                                            <option value="wechat" {#if condition="$edit.style eq 'wechat'"#}selected="selected"{#/if#}>微信</option>
+                                            <option value="alipay" {#if condition="$edit.style eq 'alipay'"#}selected="selected"{#/if#}>支付宝</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <label class="col-md-2 control-label">
+                                        回调地址：
+                                    </label>
+                                    <div class="col-md-4 huidiao">
+                                    </div>
+                                </div>
+                                <div class="form-group wechat">
+                                    <label class="col-md-2 control-label">
+                                        APPID：
+                                    </label>
+                                    <div class="col-md-4">
+                                        <input type="text" class="form-control"  name="wechat_appid" value="{#$edit.wechat_appid#}" placeholder="请输入APPID" />
+                                    </div>
+                                </div>
+                                <div class="form-group wechat">
+                                    <label class="col-md-2 control-label">
+                                        商户id：
+                                    </label>
+                                    <div class="col-md-4">
+                                        <input type="text" class="form-control"  name="wechat_mchid" value="{#$edit.wechat_mchid#}" placeholder="请输入商户ID" />
+                                    </div>
+                                </div>
+                                <div class="form-group wechat">
+                                    <label class="col-md-2 control-label">
+                                        api秘钥：
+                                    </label>
+                                    <div class="col-md-4">
+                                        <input type="text" class="form-control"  name="wechat_key" value="{#$edit.wechat_key#}" placeholder="请输入api秘钥" />
+                                    </div>
+                                </div>
+                                <div class="form-group wechat">
+                                    <label class="col-md-2 control-label">
+                                        APPSECRET：
+                                    </label>
+                                    <div class="col-md-4">
+                                        <input type="text" class="form-control"  name="wechat_appsecret" value="{#$edit.wechat_appsecret#}" placeholder="请输入APPSECRET" />
+                                    </div>
+                                </div>
+                                <div class="form-group alipay">
+                                    <label class="col-md-2 control-label">
+                                        APPID：
+                                    </label>
+                                    <div class="col-md-4">
+                                        <input type="text" class="form-control"  name="alipay_appid" value="{#$edit.alipay_appid#}" placeholder="请输入APPID" />
+                                    </div>
+                                </div>
+                                <div class="form-group alipay">
+                                    <label class="col-md-2 control-label">
+                                        签名方式：
+                                    </label>
+                                    <div class="col-md-4">
+                                        <select name="alipay_sign" class="form-control flselect">
+                                            <option value="RSA2" {#if condition="$edit.alipay_sign eq 'RSA2'"#}selected="selected"{#/if#}>RSA2</option>
+                                            <option value="RSA" {#if condition="$edit.alipay_sign eq 'RSA'"#}selected="selected"{#/if#}>RSA</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="form-group alipay">
+                                    <label class="col-md-2 control-label">
+                                        私钥：
+                                    </label>
+                                    <div class="col-md-4">
+                                        <textarea cols="50" rows="5" class="form-control" name="alipay_private">{#$edit.alipay_private#}</textarea>
+                                    </div>
+                                </div>
+                                <div class="form-group alipay">
+                                    <label class="col-md-2 control-label">
+                                        公钥：
+                                    </label>
+                                    <div class="col-md-4">
+                                        <textarea cols="50" rows="5" class="form-control" name="alipay_public">{#$edit.alipay_public#}</textarea>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="panel-body">
+                                <div class="form-group">
+                                    <table class="table table-hover">
+                                        <tr>
+                                            <th>选项</th>
+                                            <th>接口名称</th>
+                                            <th>费率(例如10%，这里输入10)</th>
+                                            <th>开关</th>
+                                        </tr>
+                                        {#if condition="$list"#}
+                                        {#volist name="list" id="n" #}
+                                        <tr>
+                                            <td><input name="jkid[]" type="checkbox" {#if condition="$n.pzid neq null"#}checked="checked"{#/if#} value="{#$n.jkid#}"/></td>
+                                            <td>{#$n.jkname#}</td>
+                                            <td><input name="fl_{#$n.jkid#}" class="form-control" type="text"  value="{#$n.fl#}"/></td>
+                                            <td><select name="ifopen_{#$n.jkid#}" class="form-control">
+                                                    <option value="0" {#if condition="$n.ifopen eq '0'"#}selected="selected"{#/if#}>关闭</option>
+                                                    <option value="1" {#if condition="$n.ifopen eq '1'"#}selected="selected"{#/if#}>开启</option>
+                                                </select></td>
+                                        </tr>
+                                        {#/volist#}
+                                        {#else/#}
+                                        <tr>
+                                            <td colspan="10" align="center">暂无数据 <a href="{#:U('Api/add')#}">添加</a></td>
+                                        </tr>
+                                        {#/if#}
+                                    </table>
+                                </div>
+
+                                <div class="form-group">
+                                    <div class="col-md-offset-2 col-md-4">
+                                        <input type="hidden" class="form-control" name="act" value="{#$act#}"/>
+                                        <input type="hidden" class="form-control" name="pzid" value="{#$edit.pzid#}"/>
+                                        <button type="submit" class="btn btn-success ">
+                                            &nbsp;
+                                            <span class="glyphicon glyphicon-save">
+                                            </span>
+                                            &nbsp;提交&nbsp;
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    $(document).ready(function () {
+        $('.style').on('change', function () {
+            var t = $(this).find('option:selected').val();
+            var tname = $(this).find('option:selected').html();
+            if (t == 'alipay') {
+                $('.alipay').css({'display': 'block'});
+                $('.wechat').css({'display': 'none'});
+            } else if (t == 'wechat') {
+                $('.wechat').css({'display': 'block'});
+                $('.alipay').css({'display': 'none'});
+            }
+            
+            $('.huidiao').html('<p>'+tname+'异步 http://{#$Think.server.HTTP_HOST#}/Pay/notify/'+t+'</p>'+
+                    '<p>'+tname+'同步 http://{#$Think.server.HTTP_HOST#}/Pay/backurl/'+t+'</p>');
+        });
+        $('.style').change();
+    });
+</script>
+{#include file="Public/footer" /#} 

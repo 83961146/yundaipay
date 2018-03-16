@@ -1,0 +1,191 @@
+{#include file="Public/header" /#}
+
+<body class="">
+    <div style="position:absolute;left:40%">
+        <div class="woody-prompt">
+            <div class="prompt-error alert alert-danger">
+            </div>
+        </div>
+    </div>
+
+    <div class="pace pace-inactive">
+        <div class="pace-progress" data-progress-text="100%" data-progress="99" style="transform: translate3d(100%, 0px, 0px);">
+            <div class="pace-progress-inner">
+            </div>
+        </div>
+        <div class="pace-activity">
+        </div>
+    </div>
+    <div id="wrapper">
+        {#include file="Public/left" /#}
+        <div id="page-wrapper" class="gray-bg">
+            {#include file="Public/top" /#}
+
+            <div class="row wrapper wrapper-content">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="panel panel-default">
+                            <div class="panel-heading">
+                                <div class="panel-title">
+                                    <em class="fa fa-list">
+                                    </em>
+                                    {#$pageName#}</div>
+                            </div>
+                            <div class="panel-body">
+                                <div class="content-box">
+                                    <form class="form-ajax form-horizontal"  action="{#:U('Index/Home/pass')#}" method="post">
+                                        <div class="form-group">
+                                            <label class="col-md-2 control-label">
+                                                登陆帐号：
+                                            </label>
+                                            <div class="col-md-6">
+                                                <input class="form-control username" value="{#$user.username#}" disabled="" type="text">
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            <label class="col-md-2 control-label">
+                                                用户id：
+                                            </label>
+                                            <div class="col-md-6">
+                                                <input class="form-control userid" value="{#$user.userid#}" disabled="" type="text">
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            <label class="col-md-2 control-label">
+                                                原密码：
+                                            </label>
+                                            <div class="col-md-6">
+                                                <input name="passwordy" class="form-control" value="" type="password">不修改密码请留空
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            <label class="col-md-2 control-label">
+                                                新密码：
+                                            </label>
+                                            <div class="col-md-6">
+                                                <input name="password" class="form-control" value="" type="password">
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            <label class="col-md-2 control-label">
+                                                重复新密码：
+                                            </label>
+                                            <div class="col-md-6">
+                                                <input name="password2" class="form-control" value="" type="password">
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            <label class="col-md-2 control-label">
+                                                提现原密码：
+                                            </label>
+                                            <div class="col-md-6">
+                                                <input name="txmmy" class="form-control" value="" type="password">不修改密码请留空
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            <label class="col-md-2 control-label">
+                                                提现新密码：
+                                            </label>
+                                            <div class="col-md-6">
+                                                <input name="txmm" class="form-control" value="" type="password">
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            <label class="col-md-2 control-label">
+                                                重复新密码：
+                                            </label>
+                                            <div class="col-md-6">
+                                                <input name="txmm2" class="form-control" value="" type="password">
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            <label class="col-md-2 control-label">
+                                                QQ：
+                                            </label>
+                                            <div class="col-md-6">
+                                                <input name="qq" class="form-control" value="{#$user.qq#}"  type="text">
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            <label class="col-md-2 control-label">
+                                                手机号：
+                                            </label>
+                                            <div class="col-md-6">
+                                                <input name="phone" class="form-control" value="{#$user.phone#}"  type="text">
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            <label class="col-md-2 control-label">
+                                                邮箱：
+                                            </label>
+                                            <div class="col-md-6">
+                                                <input name="email" class="form-control" value="{#$user.email#}"  type="text">
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            <label class="col-md-2 control-label">
+                                                账户余额：
+                                            </label>
+                                            <div class="col-md-6">
+                                                <input class="form-control logintimes" value="{#$user.money#}" disabled="" type="text">
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            <label class="col-md-2 control-label">
+                                                提现金额：
+                                            </label>
+                                            <div class="col-md-6">
+                                                <input class="form-control logintimes" value="{#$user.tx#}" disabled="" type="text">
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            <label class="col-md-2 control-label">
+                                                注册时间：
+                                            </label>
+                                            <div class="col-md-6">
+                                                <input class="form-control logintimes" value="{#$user.addtime|date="Y-m-d H:i:s",####}" disabled="" type="text">
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            <label class="col-md-2 control-label">
+                                                登录次数：
+                                            </label>
+                                            <div class="col-md-6">
+                                                <input class="form-control logintimes" value="{#$user.logintimes#}" disabled="" type="text">
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            <label class="col-md-2 control-label">
+                                                是否代理：
+                                            </label>
+                                            <div class="col-md-6">
+                                                <input class="form-control logintimes" value="{#if condition='$user.ifagent eq "1"'#}是{#else/#}否{#/if#}" disabled="" type="text">
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            <label class="col-md-2 control-label">
+                                                上级代理id：
+                                            </label>
+                                            <div class="col-md-6">
+                                                <input class="form-control logintimes" value="{#$user.agent#}" disabled="" type="text">
+                                            </div>
+                                        </div>
+                                        <div class="form-group">
+                                            <div class="col-md-offset-2 col-md-6">
+                                                <button type="submit" class="btn btn-success">
+                                                    &nbsp;
+                                                    <i class="fa fa-check-square-o"></i>
+                                                    &nbsp;修改资料&nbsp;
+                                                </button>
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>  
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+{#include file="Public/footer" /#}

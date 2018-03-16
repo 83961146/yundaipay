@@ -1,0 +1,193 @@
+{#include file="Public/header" /#}
+
+<body class="">
+    <div style="position:absolute;left:40%">
+        <div class="woody-prompt">
+            <div class="prompt-error alert alert-danger">
+            </div>
+        </div>
+    </div>
+
+    <div class="pace pace-inactive">
+        <div class="pace-progress" data-progress-text="100%" data-progress="99" style="transform: translate3d(100%, 0px, 0px);">
+            <div class="pace-progress-inner">
+            </div>
+        </div>
+        <div class="pace-activity">
+        </div>
+    </div>
+    <div id="wrapper">
+        {#include file="Public/left" /#}
+        <div id="page-wrapper" class="gray-bg">
+            {#include file="Public/top" /#}
+
+            <div class="row wrapper wrapper-content">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="row">
+                            <div class="col-md-3 col-xs-6">
+                                <div class="panel">
+                                    <div class="panel-body" style="background:#fff;">
+                                        <h4 class="pull-left">
+                                            账户余额
+                                        </h4>
+                                        <h4 class="pull-right text-danger">
+                                            ￥{#$user.money#} 元
+                                        </h4>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-3 col-xs-6">
+                                <div class="panel">
+                                    <div class="panel-body" style="background:#fff;">
+                                        <h4 class="pull-left">
+                                            等待支付
+                                        </h4>
+                                        <h4 class="pull-right text-primary">
+                                            ￥{#$tj.payhave#} 元
+                                        </h4>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-3 col-xs-6">
+                                <div class="panel">
+                                    <div class="panel-body" style="background:#fff;">
+                                        <h4 class="pull-left">
+                                            已经提现
+                                        </h4>
+                                        <h4 class="pull-right text-info">
+                                            ￥{#$user.tx#} 元
+                                        </h4>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-3 col-xs-6">
+                                <div class="panel">
+                                    <div class="panel-body" style="background:#fff;">
+                                        <h4 class="pull-left">
+                                            订单总金额
+                                        </h4>
+                                        <h4 class="pull-right text-info">
+                                            ￥{#$tj.dingdanall#} 元
+                                        </h4>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-3 col-xs-6">
+                                <div class="panel">
+                                    <div class="panel-body" style="background:#fff;">
+                                        <h4 class="pull-left">
+                                            今日收益 (元)
+                                        </h4>
+                                        <h4 class="pull-right text-danger">
+                                            ￥{#$tj.dingdantoday#} 元
+                                        </h4>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-3 col-xs-6">
+                                <div class="panel">
+                                    <div class="panel-body" style="background:#fff;">
+                                        <h4 class="pull-left">
+                                            昨日收益（元）
+                                        </h4>
+                                        <h4 class="pull-right text-primary">
+                                            ￥{#$tj.dingdanyes#} 元
+                                        </h4>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-3 col-xs-6">
+                                <div class="panel">
+                                    <div class="panel-body" style="background:#fff;">
+                                        <h4 class="pull-left">
+                                            今日订单（笔）
+                                        </h4>
+                                        <h4 class="pull-right text-info">
+                                            {#$tj.dingdantodaycount#} 笔
+                                        </h4>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-3 col-xs-6">
+                                <div class="panel">
+                                    <div class="panel-body" style="background:#fff;">
+                                        <h4 class="pull-left">
+                                            昨日订单（笔）
+                                        </h4>
+                                        <h4 class="pull-right text-info">
+                                            {#$tj.dingdanyescount#} 笔
+                                        </h4>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="panel panel-default">
+                                    <div class="panel-heading">
+                                        <h4 class="panel-title">
+                                            <em class="fa fa-bell-o fa-fw">
+                                            </em>
+                                            商户信息
+                                        </h4>
+                                    </div>
+                                    <div class="panel-body">
+                                        <div class="list-group">
+                                            <p>商户ID：{#$user.userid#}</p>
+                                            <p class="margin-small-top clearfix">
+                                                <span class="fl">商户秘钥：<em class="text-blue-deep">{#$user.miyao#}</em></span>
+                                            </p><p>网关地址：http://{#$Think.server.HTTP_HOST#}/Pay/</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-6">
+                                <div class="panel panel-default">
+                                    <div class="panel-heading">
+                                        <h4 class="panel-title">
+                                            <em class="fa fa-bell-o fa-fw">
+                                            </em>
+                                            公告信息
+                                        </h4>
+                                    </div>
+                                    <div class="panel-body">
+                                        <div class="list-group">
+                                            {#$config.notice#}
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="panel panel-default">
+                                    <div class="panel-heading">
+                                        <h4 class="panel-title">
+                                            <em class="fa fa-bell-o fa-fw">
+                                            </em>
+                                            客服信息
+                                        </h4>
+                                    </div>
+                                    <div class="panel-body">
+                                        <div class="list-group">
+                                            <p>手机：{#$config.phone#}</p>
+                                            <p>QQ：<a href="http://wpa.qq.com/msgrd?v=3&amp;uin={#$config.qq#}&amp;Menu=yes" target='_blank'><i class="iconfont icon-qq">{#$config.qq#}</i></a></p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    {#include file="Public/footer" /#}

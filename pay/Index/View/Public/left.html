@@ -1,0 +1,140 @@
+<nav class="navbar-default navbar-static-side" role="navigation">
+    <div class="sidebar-collapse">
+        <ul class="nav metismenu" id="side-menu" style="display: block;">
+            <li class="nav-header">
+                <div class="dropdown profile-element text-center">
+                    <span style="font-size:26px;color:#fff;font-weight:bold;">
+                        {#$sitename#}
+                    </span>
+                </div>
+            </li>
+            {#if condition="$user.ifagent eq '1' && $config.ifagent eq '0'"#}
+            <li class="active">
+                <a href="#">
+                    <span class="nav-label">
+                        <i class="fa fa-home">
+                        </i>
+                        代理管理
+                    </span></a>
+            </li>
+            <li class="">
+                <a href="{#:U('Index/Home/dl')#}">
+                    <span class="nav-label">
+                        <i class="fa fa-newspaper-o">
+                        </i>
+                        代理详情
+                    </span></a>
+            </li>
+            <li class="">
+                <a href="{#:U('Index/Home/dluser')#}">
+                    <span class="nav-label">
+                        <i class="glyphicon glyphicon-user">
+                        </i>
+                        下级商户
+                    </span></a>
+            </li>
+            <li class="">
+                <a href="{#:U('Index/Home/dldingdan')#}">
+                    <span class="nav-label">
+                        <i class="fa fa-line-chart">
+                        </i>
+                        交易订单
+                    </span></a>
+            </li>
+            <li class="">
+                <a href="{#:U('Index/Home/dlfandian')#}">
+                    <span class="nav-label">
+                        <i class="fa fa-map-signs">
+                        </i>
+                        交易返点
+                    </span></a>
+            </li>
+            {#/if#}
+
+            <li class="active">
+                <a href="#">
+                    <span class="nav-label">
+                        <i class="fa fa-home">
+                        </i>
+                        用户中心
+                    </span></a>
+            </li>
+            <li class="">
+                <a href="{#:U('Index/Home/index')#}">
+                    <span class="nav-label">
+                        <i class="fa fa-home">
+                        </i>
+                        用户首页
+                    </span></a>
+            </li>
+            <li>
+                <a href="{#:U('Index/Home/pass')#}">
+                    <span class="nav-label">
+                        <i class="fa fa-newspaper-o">
+                        </i>
+                        我的资料
+                    </span></a>
+            </li>
+            <li>
+                <a href="{#:U('Index/Home/dingdan')#}">
+                    <span class="nav-label">
+                        <i class="fa fa-line-chart">
+                        </i>
+                        交易记录
+                    </span>
+                </a>
+            </li><li>
+                <a href="{#:U('Index/Home/yhk')#}">
+                    <span class="nav-label">
+                        <i class="fa fa-server"></i>
+                        提现账户
+                    </span>
+                </a>
+            </li>
+            <li>
+                <a href="{#:U('Index/Home/tx')#}">
+                    <span class="nav-label">
+                        <i class="fa fa-calendar-check-o">
+                        </i>
+                        申请提现
+                    </span>
+                </a>
+            </li>
+            <li>
+                <a href="{#:U('Index/Home/txjl')#}">
+                    <span class="nav-label">
+                        <i class="fa fa-calculator">
+                        </i>
+                        提现记录
+                    </span></a>
+            </li>
+            <li>
+                <a href="{#:U('Index/Home/fl')#}">
+                    <span class="nav-label">
+                        <i class="fa fa-map-signs">
+                        </i>
+                        费率详情
+                    </span>
+                </a>
+            </li>
+            <li>
+                <a href="{#:U('Index/Home/api')#}">
+                    <span class="nav-label">
+                        <i class="fa fa-wrench">
+                        </i>
+                        接入支付API
+                    </span>
+                </a>
+            </li>
+            <li>
+                <a href="{#:U('Index/Home/loginout')#}">
+                    <span class="nav-label">
+                        <i class="fa fa-building-o">
+                        </i>
+                        退出系统
+                    </span>
+                </a>
+            </li>
+        </ul>
+    </div>
+</nav>

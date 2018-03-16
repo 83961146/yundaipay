@@ -1,0 +1,188 @@
+{#include file="Public/header" /#}
+{#include file="Public/top" /#}
+<div id="main">
+    <div class="container-fluid">
+        <div class="row">
+            {#include file="Public/left" /#}
+            <div class="col-md-10">
+                <div class="right-content">
+
+                    <div class="panel panel-default">
+                        <div class="panel-heading">
+                            参数配置
+                        </div>
+                            <form class="lrcontent layui-form form-container form-ajax form-horizontal" action="{#:U('Param/save')#}" method="post" target="msgubotj">
+                                
+                        <div class="panel-body">
+                        <div class="panel-heading">
+                            网站相关
+                        </div>
+                                <div class="form-group">
+                                    <label class="col-md-2 control-label">
+                                        网站名称：
+                                    </label>
+                                    <div class="col-md-10">
+                                        <input type="text" class="form-control" name="sitename" value="{#$edit['sitename']#}" required lay-verify="required" placeholder="请输入网站名称" />
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <label class="col-md-2 control-label">
+                                        网站开关：
+                                    </label>
+                                    <div class="col-md-10">
+                                        <select name="closeweb" class="form-control">
+                                            <option value="1" {#if condition="$edit['closeweb'] eq '1'"#}selected="selected"{#/if#}>关闭</option>
+                                            <option value="0" {#if condition="$edit['closeweb'] eq '0'"#}selected="selected"{#/if#}>开启</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <label class="col-md-2 control-label">
+                                        代理开关：
+                                    </label>
+                                    <div class="col-md-10">
+                                        <select name="ifagent" class="form-control">
+                                            <option value="1" {#if condition="$edit['ifagent'] eq '1'"#}selected="selected"{#/if#}>关闭</option>
+                                            <option value="0" {#if condition="$edit['ifagent'] eq '0'"#}selected="selected"{#/if#}>开启</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <label class="col-md-2 control-label">
+                                        注册商户审核：
+                                    </label>
+                                    <div class="col-md-10">
+                                        <select name="ifregcheck" class="form-control">
+                                            <option value="1" {#if condition="$edit['ifregcheck'] eq '1'"#}selected="selected"{#/if#}>审核</option>
+                                            <option value="0" {#if condition="$edit['ifregcheck'] eq '0'"#}selected="selected"{#/if#}>不审核</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <label class="col-md-2 control-label">
+                                        提现账户审核：
+                                    </label>
+                                    <div class="col-md-10">
+                                        <select name="ifcheckka" class="form-control">
+                                            <option value="1" {#if condition="$edit['ifcheckka'] eq '1'"#}selected="selected"{#/if#}>审核</option>
+                                            <option value="0" {#if condition="$edit['ifcheckka'] eq '0'"#}selected="selected"{#/if#}>不审核</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <label class="col-md-2 control-label">
+                                        最小支付金额：
+                                    </label>
+                                    <div class="col-md-10">
+                                        <input type="text" class="form-control" name="minpay" value="{#$edit['minpay']#}" required lay-verify="required" placeholder="请输入最小支付金额" />
+                                        例如满100元提现，则输入100
+                                    </div>
+                                </div>
+                        <div class="panel-heading">
+                            api相关
+                        </div>
+                                <div class="form-group">
+                                    <label class="col-md-2 control-label">
+                                        收款(体验)用户id：
+                                    </label>
+                                    <div class="col-md-10">
+                                        <input type="text" class="form-control" name="bzjuserid" value="{#$edit['bzjuserid']#}" required lay-verify="required" placeholder="请输入收取保证金用户id" />
+                                        *为保证金收款的用户id 例如2017256 不填写请留空或0
+                                    </div>
+                                </div>
+                        <div class="panel-heading">
+                            扣量相关
+                        </div>
+                                <div class="form-group">
+                                    <label class="col-md-2 control-label">
+                                        扣量开关：
+                                    </label>
+                                    <div class="col-md-10">
+                                        <select name="ifkl" class="form-control">
+                                            <option value="1" {#if condition="$edit['ifkl'] eq '1'"#}selected="selected"{#/if#}>扣量</option>
+                                            <option value="0" {#if condition="$edit['ifkl'] eq '0'"#}selected="selected"{#/if#}>不扣量</option>
+                                        </select>
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <label class="col-md-2 control-label">
+                                        扣量初始值：
+                                    </label>
+                                    <div class="col-md-10">
+                                        <input type="text" class="form-control" name="klvalue" value="{#$edit['klvalue']#}" required lay-verify="required" placeholder="请输入扣量初始值" />
+                                        例如满十笔支付扣一笔这里输入10，满5笔扣一笔这里输入5
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <label class="col-md-2 control-label">
+                                        扣量基数：
+                                    </label>
+                                    <div class="col-md-10">
+                                        <input type="text" class="form-control" name="klzijian" value="{#$edit['klzijian']#}" required lay-verify="required" placeholder="请输入扣量基数" />
+                                        例如第一次扣量发生在第100笔交易，这里填100
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <label class="col-md-2 control-label">
+                                        起扣金额：
+                                    </label>
+                                    <div class="col-md-10">
+                                        <input type="text" class="form-control" name="klinitmoney" value="{#$edit['klinitmoney']#}" required lay-verify="required" placeholder="请输入起扣金额" />
+                                        例如低于十元不扣量，则输入10
+                                    </div>
+                                </div>
+                        <div class="panel-heading">
+                            其他
+                        </div>
+                                <div class="form-group">
+                                    <label class="col-md-2 control-label">
+                                        客服电话：
+                                    </label>
+                                    <div class="col-md-10">
+                                        <input type="text" class="form-control" name="phone" value="{#$edit['phone']#}" required lay-verify="required" placeholder="请输入客服电话" />
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <label class="col-md-2 control-label">
+                                        客服qq：
+                                    </label>
+                                    <div class="col-md-10">
+                                        <input type="text" class="form-control" name="qq" value="{#$edit['qq']#}" required lay-verify="required" placeholder="请输入客服qq" />
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <label class="col-md-2 control-label">
+                                        公告：
+                                    </label>
+                                    <div class="col-md-10">
+                                        <textarea name="notice" class="form-control" rows="10" cols="80">{#$edit['notice']#}</textarea>
+                                    </div>
+                                </div>
+                                <div class="form-group">
+                                    <label class="col-md-2 control-label">
+                                        注册协议：
+                                    </label>
+                                    <div class="col-md-10">
+                                        <textarea name="xieyi" class="form-control" rows="10" cols="80">{#$edit['xieyi']#}</textarea>
+                                    </div>
+                                </div>
+
+                                <div class="form-group">
+                                    <div class="col-md-offset-2 col-md-4">
+                                        <button type="submit" class="btn btn-success">
+                                            &nbsp;
+                                            <span class="glyphicon glyphicon-save">
+                                            </span>
+                                            &nbsp;保存设置&nbsp;
+                                        </button>
+                                    </div>
+                                </div>
+                        </div>
+                            </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{#include file="Public/footer" /#} 

@@ -1,0 +1,164 @@
+2017-10-08 20:53:46  {"productCode":"QUICK_WAP_PAY","body":"mytest","subject":"alipay wap","out_trade_no":"201710015074672251146","total_amount":"1","timeout_express":"1m"}
+2017-10-08 20:57:49  {"productCode":"QUICK_WAP_PAY","body":"mytest","subject":"alipay wap","out_trade_no":"201710015074674682104","total_amount":"1","timeout_express":"1m"}
+2017-10-08 21:00:29  {"productCode":"QUICK_WAP_PAY","body":"mytest","subject":"alipay wap","out_trade_no":"201710015074676266665","total_amount":"1","timeout_express":"1m"}
+2017-10-08 21:15:53  {"productCode":"QUICK_WAP_PAY","body":"mytest","subject":"alipay wap","out_trade_no":"201710015074685532086","total_amount":"1","timeout_express":"1m"}
+2017-10-08 21:17:49  {"productCode":"QUICK_WAP_PAY","body":"mytest","subject":"alipay wap","out_trade_no":"201710015074686699956","total_amount":"1","timeout_express":"1m"}
+2017-10-10 20:42:57  array (
+  '/Pay/notify/alipay' => '',
+  'mode' => '2.000',
+  'fanDian' => '10.21',
+  'Hm_lvt_c50bfe5f24a55954494327a79485064c' => '1507361748',
+  'PHPSESSID' => '0us3taa4liatv09639ej3abet4',
+  '_UID' => '2017100',
+  '_UNAME' => 'qq51125330',
+  '_CODE' => '16a9997dc4122acee6514c4a24903814',
+  'total_amount' => 1,
+  'buyer_id' => '2088102116773037',
+  'body' => '大乐透2.1',
+  'trade_no' => '2016071921001003030200089909',
+  'refund_fee' => '0.00',
+  'notify_time' => '2016-07-19 14:10:49',
+  'subject' => '大乐透2.1',
+  'sign_type' => 'RSA2',
+  'charset' => 'utf-8',
+  'notify_type' => 'trade_status_sync',
+  'out_trade_no' => '201710015074676266665',
+  'gmt_close' => '2016-07-19 14:10:46',
+  'gmt_payment' => '2016-07-19 14:10:47',
+  'trade_status' => 'TRADE_SUCCESS',
+  'version' => '1.0',
+  'sign' => 'ELAYeugH8LYFvxnNajOvZhuxNFbN2LhF0l/KL8ANtj8oyPM4NN7Qft2kWJTDJUpQOzCzNnV9hDxh5AaT9FPqRS6ZKxnzM=',
+  'gmt_create' => '2016-07-19 14:10:44',
+  'app_id' => '2015102700040153',
+  'seller_id' => '2088102119685838',
+  'notify_id' => '4a91b7a78a503640467525113fb7d8bg8e',
+)
+2017-10-10 20:43:21  array (
+  '/Pay/notify/alipay' => '',
+  'mode' => '2.000',
+  'fanDian' => '10.21',
+  'Hm_lvt_c50bfe5f24a55954494327a79485064c' => '1507361748',
+  'PHPSESSID' => '0us3taa4liatv09639ej3abet4',
+  '_UID' => '2017100',
+  '_UNAME' => 'qq51125330',
+  '_CODE' => '16a9997dc4122acee6514c4a24903814',
+  'total_amount' => 1,
+  'buyer_id' => '2088102116773037',
+  'body' => '大乐透2.1',
+  'trade_no' => '2016071921001003030200089909',
+  'refund_fee' => '0.00',
+  'notify_time' => '2016-07-19 14:10:49',
+  'subject' => '大乐透2.1',
+  'sign_type' => 'RSA2',
+  'charset' => 'utf-8',
+  'notify_type' => 'trade_status_sync',
+  'out_trade_no' => '201710015074676266665',
+  'gmt_close' => '2016-07-19 14:10:46',
+  'gmt_payment' => '2016-07-19 14:10:47',
+  'trade_status' => 'TRADE_SUCCESS',
+  'version' => '1.0',
+  'sign' => 'ELAYeugH8LYFvxnNajOvZhuxNFbN2LhF0l/KL8ANtj8oyPM4NN7Qft2kWJTDJUpQOzCzNnV9hDxh5AaT9FPqRS6ZKxnzM=',
+  'gmt_create' => '2016-07-19 14:10:44',
+  'app_id' => '2015102700040153',
+  'seller_id' => '2088102119685838',
+  'notify_id' => '4a91b7a78a503640467525113fb7d8bg8e',
+)
+2017-10-10 20:43:33  array (
+  '/Pay/notify/alipay' => '',
+  'mode' => '2.000',
+  'fanDian' => '10.21',
+  'Hm_lvt_c50bfe5f24a55954494327a79485064c' => '1507361748',
+  'PHPSESSID' => '0us3taa4liatv09639ej3abet4',
+  '_UID' => '2017100',
+  '_UNAME' => 'qq51125330',
+  '_CODE' => '16a9997dc4122acee6514c4a24903814',
+  'total_amount' => 1,
+  'buyer_id' => '2088102116773037',
+  'body' => '大乐透2.1',
+  'trade_no' => '2016071921001003030200089909',
+  'refund_fee' => '0.00',
+  'notify_time' => '2016-07-19 14:10:49',
+  'subject' => '大乐透2.1',
+  'sign_type' => 'RSA2',
+  'charset' => 'utf-8',
+  'notify_type' => 'trade_status_sync',
+  'out_trade_no' => '201710015074676266665',
+  'gmt_close' => '2016-07-19 14:10:46',
+  'gmt_payment' => '2016-07-19 14:10:47',
+  'trade_status' => 'TRADE_SUCCESS',
+  'version' => '1.0',
+  'sign' => 'ELAYeugH8LYFvxnNajOvZhuxNFbN2LhF0l/KL8ANtj8oyPM4NN7Qft2kWJTDJUpQOzCzNnV9hDxh5AaT9FPqRS6ZKxnzM=',
+  'gmt_create' => '2016-07-19 14:10:44',
+  'app_id' => '2015102700040153',
+  'seller_id' => '2088102119685838',
+  'notify_id' => '4a91b7a78a503640467525113fb7d8bg8e',
+)
+2017-10-10 20:44:14  array (
+  '/Pay/notify/alipay' => '',
+  'mode' => '2.000',
+  'fanDian' => '10.21',
+  'Hm_lvt_c50bfe5f24a55954494327a79485064c' => '1507361748',
+  'PHPSESSID' => '0us3taa4liatv09639ej3abet4',
+  '_UID' => '2017100',
+  '_UNAME' => 'qq51125330',
+  '_CODE' => '16a9997dc4122acee6514c4a24903814',
+  'total_amount' => 1,
+  'buyer_id' => '2088102116773037',
+  'body' => '大乐透2.1',
+  'trade_no' => '2016071921001003030200089909',
+  'refund_fee' => '0.00',
+  'notify_time' => '2016-07-19 14:10:49',
+  'subject' => '大乐透2.1',
+  'sign_type' => 'RSA2',
+  'charset' => 'utf-8',
+  'notify_type' => 'trade_status_sync',
+  'out_trade_no' => '201710015074676266665',
+  'gmt_close' => '2016-07-19 14:10:46',
+  'gmt_payment' => '2016-07-19 14:10:47',
+  'trade_status' => 'TRADE_SUCCESS',
+  'version' => '1.0',
+  'sign' => 'ELAYeugH8LYFvxnNajOvZhuxNFbN2LhF0l/KL8ANtj8oyPM4NN7Qft2kWJTDJUpQOzCzNnV9hDxh5AaT9FPqRS6ZKxnzM=',
+  'gmt_create' => '2016-07-19 14:10:44',
+  'app_id' => '2015102700040153',
+  'seller_id' => '2088102119685838',
+  'notify_id' => '4a91b7a78a503640467525113fb7d8bg8e',
+)
+2017-10-11 22:15:59  {"productCode":"QUICK_WAP_PAY","body":"1507731359163391","subject":"alipay wap","out_trade_no":"20171001507731359163391","total_amount":1,"timeout_express":"1m"}
+2017-10-11 22:18:42  {"productCode":"QUICK_WAP_PAY","body":"1507731521552471","subject":"alipay wap","out_trade_no":"20171001507731521552471","total_amount":1,"timeout_express":"1m"}
+2017-10-11 22:23:35  {"productCode":"QUICK_WAP_PAY","body":"1507731815253479","subject":"alipay wap","out_trade_no":"20171001507731815253479","total_amount":1,"timeout_express":"1m"}
+2017-10-11 22:27:07  {"productCode":"QUICK_WAP_PAY","body":"mytest","subject":"alipay wap","out_trade_no":"201710015077320252594","total_amount":"1","timeout_express":"1m"}
+2017-10-11 22:32:45  {"productCode":"QUICK_WAP_PAY","body":"mytest","subject":"alipay wap","out_trade_no":"201710015077323629087","total_amount":"1","timeout_express":"1m"}
+2017-10-11 22:33:03  {"productCode":"QUICK_WAP_PAY","body":"mytest","subject":"alipay wap","out_trade_no":"201710015077323821395","total_amount":"1","timeout_express":"1m"}
+2017-10-11 22:33:09  {"productCode":"QUICK_WAP_PAY","body":"mytest","subject":"alipay wap","out_trade_no":"201710015077323895710","total_amount":"1","timeout_express":"1m"}
+2017-10-11 22:33:17  {"productCode":"QUICK_WAP_PAY","body":"mytest","subject":"alipay wap","out_trade_no":"201710015077323977901","total_amount":"1","timeout_express":"1m"}
+2017-10-11 22:36:56  {"productCode":"QUICK_WAP_PAY","body":"mytest","subject":"alipay wap","out_trade_no":"201710015077326163290","total_amount":"1","timeout_express":"1m"}
+2017-10-11 22:36:56  response: 'https://openapi.alipaydev.com/gateway.do?alipay_sdk=alipay-sdk-php-20161101&app_id=2016080800191563&biz_content={"productCode":"QUICK_WAP_PAY","body":"mytest","subject":"alipay wap","out_trade_no":"201710015077326163290","total_amount":"1","timeout_express":"1m"}&charset=UTF-8&format=json&method=alipay.trade.wap.pay&notify_url=http://localhost:11001/pay/notify/alipay&return_url=http://localhost:11001/Test/backUrl&sign_type=RSA2&timestamp=2017-10-11 22:36:56&version=1.0&sign=t9563RndEY5fSGueJXF8yduzn5LGZsnhHfMDg8YFdhlcD1nn4seiuOS97c1Xdo98XxPQ2UlZF1DGl%2FrATMxKLXETgaqfjfDOhUu4ExjKxslWqBZQ1h03ScyPwdWc2xIzPGain7dI6WSExEZINdM32DKbwzEQoH7mc9WxDeDIUWC4k4%2BRp2BQh0PKXzYJKZKCDVLuSd52%2BLiWTKPEzI3tfgMKvozszH18B96B1kXm71L5eaUbkev7NNPp9XvJcfWGgYuLS%2BSdPn0%2F6R9yi7%2BrIYcosCdKqnOKJeT9n0GFuvg1ReEN5DXNnTp9xWbeNosCIEt5E4sSAoo7jdvHOGu5Kw%3D%3D'
+2017-10-12 09:55:31  {"productCode":"QUICK_WAP_PAY","body":"mytest","subject":"alipay wap","out_trade_no":"201710015077733308389","total_amount":"1","timeout_express":"1m"}
+2017-10-12 09:55:55  {"productCode":"QUICK_WAP_PAY","body":"mytest","subject":"alipay wap","out_trade_no":"201710015077733542230","total_amount":"1","timeout_express":"1m"}
+2017-10-12 10:02:04  {"productCode":"QUICK_WAP_PAY","body":"mytest","subject":"alipay wap","out_trade_no":"201710015077737218276","total_amount":"1","timeout_express":"1m"}
+2017-10-12 10:02:29  {"productCode":"QUICK_WAP_PAY","body":"mytest","subject":"alipay wap","out_trade_no":"201710015077737473602","total_amount":"1","timeout_express":"1m"}
+2017-10-12 10:03:38  {"productCode":"QUICK_WAP_PAY","body":"mytest","subject":"alipay wap","out_trade_no":"201710015077738178194","total_amount":"1","timeout_express":"1m"}
+2017-10-12 10:04:03  {"productCode":"QUICK_WAP_PAY","body":"mytest","subject":"alipay wap","out_trade_no":"201710015077738426116","total_amount":"1","timeout_express":"1m"}
+2017-10-12 10:04:20  {"productCode":"QUICK_WAP_PAY","body":"mytest","subject":"alipay wap","out_trade_no":"201710015077738587882","total_amount":"1","timeout_express":"1m"}
+2017-10-12 10:04:29  {"productCode":"QUICK_WAP_PAY","body":"mytest","subject":"alipay wap","out_trade_no":"201710015077738692037","total_amount":"1","timeout_express":"1m"}
+2017-10-12 10:06:55  {"productCode":"QUICK_WAP_PAY","body":"mytest","subject":"alipay wap","out_trade_no":"201710015077740159752","total_amount":"1","timeout_express":"1m"}
+2017-10-12 10:07:15  {"productCode":"QUICK_WAP_PAY","body":"mytest","subject":"alipay wap","out_trade_no":"201710015077740346136","total_amount":"1","timeout_express":"1m"}
+2017-10-12 10:08:08  {"productCode":"QUICK_WAP_PAY","body":"mytest","subject":"alipay wap","out_trade_no":"201710015077740851675","total_amount":"1","timeout_express":"1m"}
+2017-10-12 10:14:18  {"productCode":"QUICK_WAP_PAY","body":"mytest","subject":"alipay wap","out_trade_no":"201710015077744558492","total_amount":"1","timeout_express":"1m"}
+2017-10-12 10:16:54  {"productCode":"QUICK_WAP_PAY","body":"mytest","subject":"alipay wap","out_trade_no":"201710015077746128443","total_amount":"1","timeout_express":"1m"}
+2017-10-12 10:17:21  {"productCode":"QUICK_WAP_PAY","body":"mytest","subject":"alipay wap","out_trade_no":"201710015077746408091","total_amount":"1","timeout_express":"1m"}
+2017-10-12 11:39:57  {"productCode":"QUICK_WAP_PAY","body":"mytest","subject":"alipay wap","out_trade_no":"201710015077795967651","total_amount":"1","timeout_express":"1m"}
+2017-10-12 16:10:01  {"productCode":"QUICK_WAP_PAY","body":"1507795801618774","subject":"alipay wap","out_trade_no":"20171001507795801618774","total_amount":1,"timeout_express":"1m"}
+2017-10-12 16:59:17  {"productCode":"QUICK_WAP_PAY","body":"2017105baozhengjin","subject":"alipay wap","out_trade_no":"201710015077987568976","total_amount":"1000.00","timeout_express":"1m"}
+2017-10-13 10:07:43  {"productCode":"QUICK_WAP_PAY","body":"1507860463888186","subject":"alipay wap","out_trade_no":"20171001507860463888186","total_amount":1,"timeout_express":"1m"}
+2017-10-13 10:08:49  {"productCode":"QUICK_WAP_PAY","body":"1507860528853826","subject":"alipay wap","out_trade_no":"20171001507860528853826","total_amount":1,"timeout_express":"1m"}
+2017-10-13 10:09:19  {"productCode":"QUICK_WAP_PAY","body":"1507860558493804","subject":"alipay wap","out_trade_no":"20171001507860558493804","total_amount":1,"timeout_express":"1m"}
+2017-10-13 10:15:48  {"productCode":"QUICK_WAP_PAY","body":"1507860946643466","subject":"alipay wap","out_trade_no":"20171001507860946643466","total_amount":1,"timeout_express":"1m"}
+2017-10-13 10:17:43  {"productCode":"QUICK_WAP_PAY","body":"1507861062830123","subject":"alipay wap","out_trade_no":"20171001507861062830123","total_amount":1,"timeout_express":"1m"}
+2017-10-13 10:19:48  {"productCode":"QUICK_WAP_PAY","body":"1507861187461120","subject":"alipay wap","out_trade_no":"20171001507861187461120","total_amount":1,"timeout_express":"1m"}
+2017-10-13 10:25:00  {"productCode":"QUICK_WAP_PAY","body":"1507861498875222","subject":"alipay wap","out_trade_no":"20171001507861498875222","total_amount":1,"timeout_express":"1m"}
+2017-10-13 10:29:06  {"productCode":"QUICK_WAP_PAY","body":null,"subject":"alipay wap","out_trade_no":"20171001507861746505642","total_amount":1,"timeout_express":"1m"}
+2018-03-09 19:03:00  {"productCode":"QUICK_WAP_PAY","body":"mytest","subject":"test","out_trade_no":"201710015205933793668","total_amount":"1","timeout_express":"1m"}
+2018-03-09 19:14:17  {"productCode":"QUICK_WAP_PAY","body":"mytest","subject":"test","out_trade_no":"201710015205940578165","total_amount":"1","timeout_express":"1m"}
+2018-03-09 19:14:19  {"productCode":"QUICK_WAP_PAY","body":"mytest","subject":"test","out_trade_no":"201710015205940598204","total_amount":"1","timeout_express":"1m"}
+2018-03-09 19:22:50  {"productCode":"QUICK_WAP_PAY","body":"mytest","subject":"test","out_trade_no":"201710015205945703763","total_amount":"1","timeout_express":"1m"}

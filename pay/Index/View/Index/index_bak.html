@@ -1,0 +1,71 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+        <meta name="renderer" content="webkit" />
+        <meta name="keywords" content="{#$sitename#},{#$sitename#}官网,支付/付款/收款/o2o/钱包,快捷支付,认证支付," />
+        <meta name="description" content="{#$sitename#}，移动支付专家，带给您安全快捷的网上付款体验。" />
+        <title>{#$sitename#}</title>
+        <link rel="stylesheet" href="__PUBLIC__/index/night/base.css">
+        <link rel="stylesheet" href="__PUBLIC__/index/night/index.css">
+    </head>
+
+    <body>
+        <div class="i-logo">
+            <a href="javascript:;" title="{#$sitename#}官网"><img src="__PUBLIC__/index/night/logo.png" alt="{#$sitename#}"/></a>
+        </div>
+
+        <div class="i-main">
+            <div class="i-slogan">因为有你</div>
+            <div class="i-btn-box">
+                <a href="javascript:;" class="tbtn loginBtn business">用户登录</a>   
+                <a href="{#:U('/reg')#}" class="user">用户注册</a>
+            </div>
+        </div>
+
+        <div class="i-footer">
+
+            <div class="i-icp">版权归{#$sitename#}所有</div>
+        </div>
+
+        <div class="i-bg"></div>
+
+        <script language=javascript src="__PUBLIC__/plugin/jquery-3.2.0.min.js" ></script>
+        <script language=javascript src="__PUBLIC__/plugin/layer/layer.js"></script>
+        <script language=javascript src="__PUBLIC__/plugin/swiper.jquery.min.js"></script>
+        <script>
+            var swiper = new Swiper('.swiper-container', {
+                pagination: '.swiper-pagination',
+                paginationClickable: true,
+                nextButton: '.swiper-button-next',
+                prevButton: '.swiper-button-prev',
+                autoplay: 3000
+            });
+        </script>
+
+        <!-- 代码部分begin -->
+        <div class="fixed-bar">
+            <div class="wide-bar">
+                <div class="consult-box">
+                    <div class="consult-header clearfix">
+                        <h3 class="consult-title">在线客服</h3>
+                    </div>
+                    <ul class="consult-list">
+                        <li class="clearfix">
+                            <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=806387700&site=qq&menu=yes"><span>客服-诗诗：</span>
+                                <img border="0" src="__PUBLIC__/index/night/JS_qq.png" alt="QQ" title="点击开始QQ交谈/留言"></a>
+                        </li>
+                        <li class="clearfix">
+                            <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=915804673&site=qq&menu=yes"><span>技术-小勇：</span>
+                                <img border="0" src="__PUBLIC__/index/night/JS_qq.png" alt="QQ" title="点击开始QQ交谈/留言"></a>
+                        </li>
+                        <!--<li class="clearfix"><span class="tel-icon">400-123-1230</span></li>-->
+                    </ul>
+                </div>
+                <a href="javascript:scrollTo(0,0)" class="gotop" title="回到顶部" style="display:none;"><i class="icon">返回顶部</i><span>返回顶部</span></a>
+            </div>
+        </div>
+        {#include file="Index/login" /#}
+    </body>
+</html>

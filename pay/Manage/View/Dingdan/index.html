@@ -1,0 +1,157 @@
+{#include file="Public/header" /#}
+{#include file="Public/top" /#}
+
+<div id="main">
+    <div class="container-fluid">
+        <div class="row">
+            {#include file="Public/left" /#}
+            <div class="col-md-10">
+                <div class="right-content">    <h3>
+                        <span class="current">
+                            {#$pageName#}
+                    </h3>
+                    <br>
+                    <div class="row">
+                        <div class="col-md-3 col-xs-6">
+                            <div class="panel">
+                                <div class="panel-body" style="background:#eee;">
+                                    <h4 class="pull-left">
+                                        当日金额
+                                    </h4>
+                                    <h4 class="pull-right text-danger">
+                                        ￥{#$tj.today#} 元
+                                    </h4>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-xs-6">
+                            <div class="panel">
+                                <div class="panel-body" style="background:#eee;">
+                                    <h4 class="pull-left">
+                                        当日支出
+                                    </h4>
+                                    <h4 class="pull-right text-primary">
+                                        ￥{#$tj.paytoday#} 元
+                                    </h4>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-xs-6">
+                            <div class="panel">
+                                <div class="panel-body" style="background:#eee;">
+                                    <h4 class="pull-left">
+                                        总金额
+                                    </h4>
+                                    <h4 class="pull-right text-info">
+                                        ￥{#$tj.all#} 元
+                                    </h4>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-xs-6">
+                            <div class="panel">
+                                <div class="panel-body" style="background:#eee;">
+                                    <h4 class="pull-left">
+                                        总支出
+                                    </h4>
+                                    <h4 class="pull-right text-info">
+                                        ￥{#$tj.payall#} 元
+                                    </h4>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="panel panel-default">
+                        <div class="panel-body">
+                            <form class="layui-form layui-form-pane form-inline" action="" method="get">
+                                <div class="form-group">
+                                    <input class="form-control" name="userid" placeholder="用户id" value="{#$Think.request.userid#}" size="12" type="text">
+                                </div>
+                                <div class="form-group">
+                                    <input class="form-control" name="ordernum" placeholder="订单号"  value="{#$Think.request.ordernum#}" size="12" type="text">
+                                </div>
+                                <div class="form-group">
+                                    <select name="jkstyle" class="layui-btn-small ajax-action form-control"  >
+                                            <option value="">所有类型</option>
+                                            {#volist name="jiekou" id="n" #}
+                                            <option value="{#$n.jkstyle#}" {#if condition="$Think.request.jkstyle eq $n.jkstyle"#}selected="selected"{#/if#}>{#$n.jkname#}</option>
+                                            {#/volist#}
+                                    </select>
+                                </div>
+                                <div class="form-group">
+                                    <select name="status" class="layui-btn-small ajax-action form-control"  >
+                                            <option value="0" {#if condition="$Think.request.status eq '0'"#}selected="selected"{#/if#}>未支付订单</option>
+                                            <option value="1" {#if condition="$Think.request.status eq '1'"#}selected="selected"{#/if#}>成功订单</option>
+                                            <option value="2" {#if condition="$Think.request.status eq '2'"#}selected="selected"{#/if#}>扣量订单</option>
+                                    </select>
+                                </div>
+                                <button type="submit" class="btn btn-primary">
+                                    <span class="glyphicon glyphicon-search">
+                                    </span>
+                                    &nbsp;立即查询
+                                </button>
+                            </form>
+                        </div>
+                    </div>
+
+                    <form action="" method="post"  class="ajax-form">
+                        <div class="set set0 table-responsive">
+                            <table class="table table-hover">
+                                <thead>
+                                    <tr>
+                                        <td colspan="10">
+                                            <button class="btn btn-danger anniu delbtn" type="button" data-url="{#:U('Dingdan/delete')#}">删除</button>
+                                            <button class="btn btn-primary anniu flushbtn" type="button" data-url="#">刷新</button>
+                                            <button class="btn btn-danger anniu delallbtn" type="button" data-url="{#:U('Dingdan/delete',array('clear'=>1))#}">清除未支付订单（三天以上）</button>
+                                            <br/>*仅能删除未支付订单
+                                        </td>
+                                    </tr>
+                                    <tr class="info">
+                                        <th style="width: 15px;"><input type="checkbox" name="mmAll" class="selectAllCheckbox"/></th>
+                                        <th align="center" >ID</th>
+                                        <th align="center">商户id</th>
+                                        <th align="center">订单号</th>
+                                        <th align="center">平台订单号</th>
+                                        <th align="center">实收金额</th>
+                                        <th align="center">支出金额</th>
+                                        <th align="center">状态</th>
+                                        <th align="center">支付时间</th>
+                                        <th align="center">通道</th>
+                                        <th align="center">通知</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    {#if condition="$list"#}
+                                        {#volist name="list" id="n" #}
+                                    <tr id="tr{#$n.ddid#}" >
+                                        <td align="center"><input type="checkbox" class="thisid checkbox" title="{#$n.ddid#}" name="thisid[]" value="{#$n.ddid#}"/></td>
+                                        <td align="center"><a href="{#:U('Dingdan/edit',array('ddid'=>$n['ddid'],'p'=>$_GET['p']))#}">{#$n.ddid#}</a></td>
+                                        <td align="center">{#$n.userid#}</td>
+                                        <td align="center">{#$n.ordernum#}</td>
+                                        <td align="center">{#$n.preordernum#}</td>
+                                        <td align="center">{#$n.totalmoney#}</td>
+                                        <td align="center">{#$n.havemoney#}</td>
+                                        <td align="center">{#$n.status#}</td>
+                                        <td align="center">{#$n.paytime#}</td>
+                                        <td align="center">{#$n.jkstyle#}</td>
+                                        <td align="center">{#$n.tzzt#}
+                                        {#if condition="$n.tz eq '1'"#}<a href="{#:U('Dingdan/edit',array('id'=>$n['ddid'],'p'=>$_GET['p']))#}" class="layui-btn layui-btn-normal layui-btn-mini">重发</a>{#/if#}
+                                        </td>
+                                    </tr>
+                                        {#/volist#}
+                                    {#else/#}
+                                    <tr>
+                                        <td colspan="11" align="center">暂无数据</td>
+                                    </tr>
+                                    {#/if#}
+                                </tbody>
+                            </table>
+                            <div id="wypage">{#$page#}</div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{#include file="Public/footer" /#}

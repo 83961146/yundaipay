@@ -1,0 +1,70 @@
+<body>
+    <div style="position:fixed;left:40%;z-index:999">
+        <div class="woody-prompt">
+            <div class="prompt-error alert alert-danger">
+            </div>
+        </div>
+    </div>
+    <div id="top-nav" class="">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-2 col-sm-3 col-xs-15">
+                    <ul>
+                        <li class="current">
+                            <a href="{#:U('Main/index')#}">
+                                {#$config.sitename#}
+                                &nbsp;
+                                <span class="label label-primary">
+                                    管理面板
+                                </span>
+                            </a></li>
+                    </ul>
+                </div>
+                <div class="col-md-6 col-sm-6 clearfix">
+                    <ul>
+                        <li class="current"><a href="{#:U('Main/index')#}">管理首页</a></li>
+                        <li><a href="{#:U('Param/index')#}">系统设置</a></li>
+                        <li><a href="{#:U('User/index')#}">用户列表</a></li>
+                        <li><a href="{#:U('Dingdan/index')#}">订单列表</a></li>
+                        <li><a href="{#:U('Api/index')#}">接口管理</a></li>
+                        <li><a href="{#:U('Kou/index')#}">扣量设置</a></li>
+                        <li><a href="{#:U('Pay/yzf')#}">支付账单</a></li>
+                    </ul>
+                </div>
+                <div class="col-md-3 col-sm-3  clearfix">
+                    <ul>
+                        <li>
+                            <a href="/" target="_blank">
+                                <span class="glyphicon glyphicon-home">
+                                </span>
+                                &nbsp;返回网站
+                            </a>
+                        </li>
+                        <li>
+                            <a href="javascript:;" class="dropdown-toggle" data-toggle="dropdown"
+                               role="button" aria-haspopup="true" aria-expanded="false">
+                                账号
+                                {#$admin['adminname']#}&nbsp;
+                            </a>
+                        </li>
+                        <li>
+                            <a href="{#:U('Index/loginOut')#}">
+                                <span class="glyphicon glyphicon-off">
+                                </span>
+                                &nbsp;登出
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+        $('#dropdownMenu').click(function () {
+            if ($('.left-nav').is(':visible')) {
+                $('.left-nav').addClass('hidden-sm hidden-xs').hide();
+            } else {
+                $('.left-nav').removeClass('hidden-sm hidden-xs').show();
+            }
+        });
+    </script>
